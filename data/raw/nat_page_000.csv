@@ -1,0 +1,501 @@
+sno,title,nco_2015,nco_2004,division,sub_division,group,family
+1,"Purser, Ship",1211.0300,1231.10,Managers,Administrative and Commercial Managers,Business Services and Administration Managers,Finance Managers
+2,"Finance Managers, Others",1211.9900,1231.9,Managers,Administrative and Commercial Managers,Business Services and Administration Managers,Finance Managers
+3,"General Manager, Bank",1211.0100,1307.10,Managers,Administrative and Commercial Managers,Business Services and Administration Managers,Finance Managers
+4,"General Manager, Insurance",1211.0200,1307.20,Managers,Administrative and Commercial Managers,Business Services and Administration Managers,Finance Managers
+5,"Working Proprietor, Construction/Proprietor, Construction",1120.1200,1213.40,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+6,"Director, Storage and Warehousing",1120.2800,1216.20,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+7,"Director, Construction",1120.1300,1213.50,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+8,"Working Proprietor, Lodging and Catering Services",1120.2900,1217.10,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+9,"Director, Mines",1120.1400,1213.60,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+10,"Director, Lodging and Catering Services/Director Food and Beverage Service",1120.3000,1217.20,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+11,"Managing Directors and Chief Executives, Others",1120.9900,1211.90,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+12,"Director, Quarry",1120.1500,1213.70,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+13,Executive Chef,1120.3100,1217.30,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+14,"Director, Well Drilling",1120.1600,1213.80,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+15,"Working Proprietor, Recreation and Entertainment",1120.3200,1218.10,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+16,"Working Proprietor, Electricity",1120.0100,1211.10,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+17,"Working Proprietor, Manufacturing/Proprietor, Manufacturing",1120.1700,1214.10,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+18,"Director, Recreation and Entertainment",1120.3300,1218.20,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+19,"Working Proprietor, Gas",1120.0200,1211.20,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+20,Director Manufacturing,1120.1800,1214.20,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+21,"station Director, Radio/TV",1120.3400,1218.30,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+22,"Working Proprietor, Water Supply",1120.0300,1211.30,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+23,"Working Proprietor, Wholesale Trade/Proprietor, Wholesale Trade",1120.1900,1214.30,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+24,Account Director ( Advertising Agency),1120.3401,,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+25,"Director, Electricity",1120.0400,1211.40,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+26,"Working Proprietor, Retail Trade/Proprietor, Retail Trade",1120.2000,1214.40,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+27,Sales Director (Media Org),1120.3402,,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+28,"Director, Gas",1120.0500,1211.50,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+29,"Director, Wholesale Trade",1120.2100,1214.50,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+30,"Working Proprietor, Other Services",1120.3500,1219.10,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+31,"Director, Water Supply",1120.0600,1211.60,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+32,"Director, Retail Trade",1120.2200,1214.60,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+33,"Director, Other Services",1120.3600,1219.20,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+34,"Director, Bank",1120.0700,1212.10,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+35,"Working Proprietor, Transport",1120.2300,1215.10,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+36,"Director, Museum/Zoo",1120.3700,1219.30,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+37,"Director, Insurance",1120.0800,1212.20,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+38,"Director, Transport",1120.2400,1215.20,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+39,Chief Librarian,1120.3800,1219.40,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+40,"Working Proprietor, Mines/Proprietor, Mines",1120.0900,1213.10,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+41,"Director, Communication",1120.2500,1215.30,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+42,"Principal, College",1120.3900,1219.50,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+43,"Working Proprietor, Quarry/Proprietor, Quarry",1120.1000,1213.20,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+44,"Director, Airport",1120.2600,1215.40,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+45,"Working Proprietor, Well Drilling/Proprietor, Well Drilling",1120.1100,1213.30,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+46,"Working Proprietor, Storage and Warehousing",1120.2700,1216.10,Managers,"Chief Executives, Senior Officials and Legislators",Managing Directors and Chief Executives,Managing Directors and Chief Executives
+47,"Senior Government Officials, Other",1112.9900,1129.90,Managers,"Chief Executives, Senior Officials and Legislators",Legislators and Senior Officials,Senior Government Officials
+48,"Administrative Official, Union Government",1112.0100,1121.10,Managers,"Chief Executives, Senior Officials and Legislators",Legislators and Senior Officials,Senior Government Officials
+49,Diplomat,1112.0200,1121.20,Managers,"Chief Executives, Senior Officials and Legislators",Legislators and Senior Officials,Senior Government Officials
+50,"Executive Officials, Union Government",1112.0300,1121.30,Managers,"Chief Executives, Senior Officials and Legislators",Legislators and Senior Officials,Senior Government Officials
+51,"Administrative Official, State Government",1112.0400,1122.10,Managers,"Chief Executives, Senior Officials and Legislators",Legislators and Senior Officials,Senior Government Officials
+52,"Executive Official, State Government",1112.0500,1122.20,Managers,"Chief Executives, Senior Officials and Legislators",Legislators and Senior Officials,Senior Government Officials
+53,"Administrative and Executive Officials, Quasi Government (Central)",1112.0600,1123.10,Managers,"Chief Executives, Senior Officials and Legislators",Legislators and Senior Officials,Senior Government Officials
+54,"Administrative & Executive Officials, Quasi Government (State)",1112.0700,1123.20,Managers,"Chief Executives, Senior Officials and Legislators",Legislators and Senior Officials,Senior Government Officials
+55,"Administrative and Executive Officials, Local Bodies",1112.0800,1124.10,Managers,"Chief Executives, Senior Officials and Legislators",Legislators and Senior Officials,Senior Government Officials
+56,"Elected Official, Local Bodies",1111.0300,1113.10,Managers,"Chief Executives, Senior Officials and Legislators",Legislators and Senior Officials,Legislators
+57,"Elected Official, State Government",1111.0200,1112.10,Managers,"Chief Executives, Senior Officials and Legislators",Legislators and Senior Officials,Legislators
+58,"Elected Official, Union Government",1111.0100,1111.10,Managers,"Chief Executives, Senior Officials and Legislators",Legislators and Senior Officials,Legislators
+59,"Legislators, Other",1111.9900,1119.90,Managers,"Chief Executives, Senior Officials and Legislators",Legislators and Senior Officials,Legislators
+60,Political Worker,1114.0100,1141.10,Managers,"Chief Executives, Senior Officials and Legislators",Legislators and Senior Officials,Senior Officials of Special Interest Organizations
+61,"Senior Officials of Employers, Workers and Other Economic Interest Organizations",1114.0100,1142.00,Managers,"Chief Executives, Senior Officials and Legislators",Legislators and Senior Officials,Senior Officials of Special Interest Organizations
+62,"Director, Disaster Management Services",1114.0300,1143.10,Managers,"Chief Executives, Senior Officials and Legislators",Legislators and Senior Officials,Senior Officials of Special Interest Organizations
+63,"Senior Officials of Special Interest Organizations, Other",1114.9900,1143.90,Managers,"Chief Executives, Senior Officials and Legislators",Legislators and Senior Officials,Senior Officials of Special Interest Organizations
+64,Personnel Manager,1212.0100,1232.10,Managers,Administrative and Commercial Managers,Business Services and Administration Managers,Human Resource Managers
+65,"Personnel and Industrial Relations Managers, Others",1212.9900,1232.90,Managers,Administrative and Commercial Managers,Business Services and Administration Managers,Human Resource Managers
+66,"Manager, Automotive Service",1213.0100,1239.10,Managers,Administrative and Commercial Managers,Business Services and Administration Managers,Policy and Planning Managers
+67,Quality Assurance Standards In-Charge,1213.0101,,Managers,Administrative and Commercial Managers,Business Services and Administration Managers,Policy and Planning Managers
+68,Manager – Customer Quality,1213.0102,,Managers,Administrative and Commercial Managers,Business Services and Administration Managers,Policy and Planning Managers
+69,"Manager, Automotive Service Station",1213.0200,1239.20,Managers,Administrative and Commercial Managers,Business Services and Administration Managers,Policy and Planning Managers
+70,Area Service Manager,1213.0201,,Managers,Administrative and Commercial Managers,Business Services and Administration Managers,Policy and Planning Managers
+71,Territory Service Manager,1213.0202,,Managers,Administrative and Commercial Managers,Business Services and Administration Managers,Policy and Planning Managers
+72,"Managers, Other Services",1213.9900,1239.90,Managers,Administrative and Commercial Managers,Business Services and Administration Managers,Policy and Planning Managers
+73,"Manager, Import and Export",1219.0100,1227.30,Managers,Administrative and Commercial Managers,Business Services and Administration Managers,Business Services and Administration Managers Not Elsewhere Classified
+74,Export Manager,1219.0101,,Managers,Administrative and Commercial Managers,Business Services and Administration Managers,Business Services and Administration Managers Not Elsewhere Classified
+75,"Manager, Health Club/Manager, Fitness Club/Centre/Gym",1219.0200,1228.10,Managers,Administrative and Commercial Managers,Business Services and Administration Managers,Business Services and Administration Managers Not Elsewhere Classified
+76,Sales Manager (Retail Trade),1221.0200,1233.20,Managers,Administrative and Commercial Managers,"Sales, Marketing and Development Managers",Sales and Marketing Managers
+77,Home Delivery Manager,1221.0301,,Managers,Administrative and Commercial Managers,"Sales, Marketing and Development Managers",Sales and Marketing Managers
+78,Territory Sales Manager (Broadband),1221.0401,,Managers,Administrative and Commercial Managers,"Sales, Marketing and Development Managers",Sales and Marketing Managers
+79,Territory Sales Manager (Prepaid),1221.0501,,Managers,Administrative and Commercial Managers,"Sales, Marketing and Development Managers",Sales and Marketing Managers
+80,Sales Co-Ordinator (Media Org),1221.0601,,Managers,Administrative and Commercial Managers,"Sales, Marketing and Development Managers",Sales and Marketing Managers
+81,Sales Manager (Media Org),1221.0602,,Managers,Administrative and Commercial Managers,"Sales, Marketing and Development Managers",Sales and Marketing Managers
+82,"Sales and Marketing Managers, Other",1221.9900,1233.90,Managers,Administrative and Commercial Managers,"Sales, Marketing and Development Managers",Sales and Marketing Managers
+83,Sales Manager (Wholesale Trade),1221.0100,1233.10,Managers,Administrative and Commercial Managers,"Sales, Marketing and Development Managers",Sales and Marketing Managers
+84,"Manager, Advertising and Promotion",1222.0100,1234.10,Managers,Administrative and Commercial Managers,"Sales, Marketing and Development Managers",Advertising and Public Relation Managers
+85,Advertising Operations Co-Ordinator (Digital),1222.0102,,Managers,Administrative and Commercial Managers,"Sales, Marketing and Development Managers",Advertising and Public Relation Managers
+86,"Manager, Fashion/Fashion Manager",1222.0200,1234.20,Managers,Administrative and Commercial Managers,"Sales, Marketing and Development Managers",Advertising and Public Relation Managers
+87,"Advertising and Public Relations Department Managers, Others",1222.9900,1234.90,Managers,Administrative and Commercial Managers,"Sales, Marketing and Development Managers",Advertising and Public Relation Managers
+88,Manager Testing Facility,1223.0101,,Managers,Administrative and Commercial Managers,"Sales, Marketing and Development Managers",Research and Development Managers
+89,Manager Material Testing,1223.0102,,Managers,Administrative and Commercial Managers,"Sales, Marketing and Development Managers",Research and Development Managers
+90,Research Associate,1223.0201,,Managers,Administrative and Commercial Managers,"Sales, Marketing and Development Managers",Research and Development Managers
+91,"General Manager, Agricultural Farm",1311.0300,1301.10,Managers,Production and Specialized Services Managers,"Production Managers in Agriculture, Forestry and Fisheries",Agricultural and Forestry Production Managers
+92,"General Manager, Livestock Farm",1311.0400,1301.40,Managers,Production and Specialized Services Managers,"Production Managers in Agriculture, Forestry and Fisheries",Agricultural and Forestry Production Managers
+93,"General Manager, Dairy Farm",1311.0500,1301.50,Managers,Production and Specialized Services Managers,"Production Managers in Agriculture, Forestry and Fisheries",Agricultural and Forestry Production Managers
+94,"General Manager, Poultry",1311.0600,1301.60,Managers,Production and Specialized Services Managers,"Production Managers in Agriculture, Forestry and Fisheries",Agricultural and Forestry Production Managers
+95,"Manager, Agricultural Farm",1311.0700,1221.10,Managers,Production and Specialized Services Managers,"Production Managers in Agriculture, Forestry and Fisheries",Agricultural and Forestry Production Managers
+96,"Manager, Plantation",1311.0800,1221.20,Managers,Production and Specialized Services Managers,"Production Managers in Agriculture, Forestry and Fisheries",Agricultural and Forestry Production Managers
+97,"Manager, Nursery",1311.0900,1221.22,Managers,Production and Specialized Services Managers,"Production Managers in Agriculture, Forestry and Fisheries",Agricultural and Forestry Production Managers
+98,"Agricultural and Forestry Production Managers, Others",1311.9900,1221.90,Managers,Production and Specialized Services Managers,"Production Managers in Agriculture, Forestry and Fisheries",Agricultural and Forestry Production Managers
+99,Rubber Nursery Manager,1311.0901,,Managers,Production and Specialized Services Managers,"Production Managers in Agriculture, Forestry and Fisheries",Agricultural and Forestry Production Managers
+100,"Manager, Aerial Planting and Cultivation",1311.1000,1221.24,Managers,Production and Specialized Services Managers,"Production Managers in Agriculture, Forestry and Fisheries",Agricultural and Forestry Production Managers
+101,"Manager, Orchard",1311.1100,1221.26,Managers,Production and Specialized Services Managers,"Production Managers in Agriculture, Forestry and Fisheries",Agricultural and Forestry Production Managers
+102,"Manager, Horticulture Farm",1311.1200,1221.30,Managers,Production and Specialized Services Managers,"Production Managers in Agriculture, Forestry and Fisheries",Agricultural and Forestry Production Managers
+103,"Manager, Livestock Farm",1311.1300,1221.40,Managers,Production and Specialized Services Managers,"Production Managers in Agriculture, Forestry and Fisheries",Agricultural and Forestry Production Managers
+104,"Manager, Dairy Farm",1311.1400,1221.50,Managers,Production and Specialized Services Managers,"Production Managers in Agriculture, Forestry and Fisheries",Agricultural and Forestry Production Managers
+105,"Manager, Poultry Farm",1311.1500,1221.60,Managers,Production and Specialized Services Managers,"Production Managers in Agriculture, Forestry and Fisheries",Agricultural and Forestry Production Managers
+106,"General Manager, Plantation",1311.0100,1301.20,Managers,Production and Specialized Services Managers,"Production Managers in Agriculture, Forestry and Fisheries",Agricultural and Forestry Production Managers
+107,"General Manager, Horticulture",1311.0200,1301.30,Managers,Production and Specialized Services Managers,"Production Managers in Agriculture, Forestry and Fisheries",Agricultural and Forestry Production Managers
+108,"Manager, Gas",1321.0300,1222.50,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Manufacturing Managers
+109,"Manager, Water Supply",1321.0400,1222.60,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Manufacturing Managers
+110,"Manager, Food Processing Plant",1321.0500,1222.65,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Manufacturing Managers
+111,"Manager, Manufacturing",1321.0600,1222.70,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Manufacturing Managers
+112,"General Manager, Electricity",1321.0700,1302.40,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Manufacturing Managers
+113,"General Manager, Gas",1321.0800,1302.50,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Manufacturing Managers
+114,"General Manager, Water Supply",1321.0900,1302.60,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Manufacturing Managers
+115,"General Manager, Manufacturing",1321.1000,1302.7,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Manufacturing Managers
+116,"Manufacturing Managers, Other",1321.9900,1302.90,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Manufacturing Managers
+117,"Manager, Electricity",1321.0100,1222.40,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Manufacturing Managers
+118,Terminal Manager,1321.0200,1222.45,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Manufacturing Managers
+119,"Manager, Mine",1322.0100,1222.10,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Mining Managers
+120,"Manager, Quarry",1322.0200,1222.20,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Mining Managers
+121,"Manager, Well Drilling",1322.0300,1222.30,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Mining Managers
+122,"General Manager, Mine",1322.0400,1302.10,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Mining Managers
+123,"General Manager, Quarry",1322.0500,1302.20,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Mining Managers
+124,"General Manager, Well Drilling",1322.0600,1302.30,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Mining Managers
+125,"Mining Managers, Other",1322.9900,1222.90,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Mining Managers
+126,"Manager, Construction/Manager Construction Projects",1323.0100,1223.10,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Construction Managers
+127,"Manager, Land Survey",1323.0200,1223.20,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Construction Managers
+128,"General Manager, Construction/General Manager Construction Projects",1323.0300,1303.10,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Construction Managers
+129,"Construction Managers, Other",1323.9900,1303.90,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers",Construction Managers
+130,"Flight Operation Officer, Air Service",1324.1000,1226.37,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+131,"Traffic Officer, Air Service/Traffic Controller",1324.1100,1226.39,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+132,"Manager, Storage and Warehousing",1324.1200,1226.50,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+133,Warehouse Supervisor,1324.1201,,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+134,"Manager, Material Control/Manager Materials",1324.0100,1235.10,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+135,"Goods Supervisor, Railway",1324.1300,1226.52,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+136,Manager Supplier Quality,1324.0101,,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+137,"Goods Supervisor, Road Transport",1324.1400,1226.54,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+138,Material Co-Ordination Manager,1324.0102,,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+139,"Station Master, Railway",1324.1500,1226.60,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+140,Manager Vendor Development,1324.0103,,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+141,"Platform Inspector, Railway",1324.1600,1226.62,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+142,"Manager, Transport",1324.0200,1226.10,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+143,"Rates Inspector, Railway",1324.1700,1226.64,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+144,"Station Master, Roadways",1324.0300,1226.15,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+145,"Depot Starter, Tram",1324.1800,1226.65,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+146,"Traffic Inspector, Motor Transport",1324.0400,1226.17,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+147,"Section Controller, Railway",1324.1900,1226.67,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+148,"Manager, Traffic",1324.0500,1226.20,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+149,"Accident Officer, Tram",1324.2000,1226.69,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+150,"Traffic Inspector, Railway",1324.0600,1226.25,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+151,"General Manager, Transport",1324.2100,1306.10,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+152,"Traffic Inspector, Tram",1324.0700,1226.29,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+153,"General Manager, Storage and Warehousing",1324.2200,1306.30,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+154,"Manager, Flight Operation",1324.0800,1226.30,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+155,"Supply, Distribution and Related Managers and General Managers, Other",1324.9900,1226.90,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+156,Aerodrome Officer,1324.0900,1226.35,Managers,Production and Specialized Services Managers,"Manufacturing, Mining, Construction and Distribution Managers","Supply, Distribution and Related Managers"
+157,Communication Analyst,1330.0101,,Managers,Production and Specialized Services Managers,Information and Communications Technology Services Manager,Information and Communication Technology Services
+158,"Contract Officer, Telephone/Liaising Officer/ PRO/Business Executive",1330.0200,1226.70,Managers,Production and Specialized Services Managers,Information and Communications Technology Services Manager,Information and Communication Technology Services
+159,Post Master,1330.0300,1226.80,Managers,Production and Specialized Services Managers,Information and Communications Technology Services Manager,Information and Communication Technology Services
+160,"General Manager, Communication",1330.0600,1306.20,Managers,Production and Specialized Services Managers,Information and Communications Technology Services Manager,Information and Communication Technology Services
+161,Cluster Manager,1330.0701,,Managers,Production and Specialized Services Managers,Information and Communications Technology Services Manager,Information and Communication Technology Services
+162,"Information and Communication Technology Services Manager, Other",1330.9900,,Managers,Production and Specialized Services Managers,Information and Communications Technology Services Manager,Information and Communication Technology Services
+163,"Manager, Communication",1330.0100,1226.40,Managers,Production and Specialized Services Managers,Information and Communications Technology Services Manager,Information and Communication Technology Services
+164,Headmaster,1345.0100,1229.20,Managers,Production and Specialized Services Managers,Information and Communications Technology Services Manager,Education Managers
+165,"Manager, Bank",1346.0100,1227.10,Managers,Production and Specialized Services Managers,Information and Communications Technology Services Manager,Financial and Insurance Service Branch Managers
+166,"Manager, Insurance",1346.0200,1227.20,Managers,Production and Specialized Services Managers,Information and Communications Technology Services Manager,Financial and Insurance Service Branch Managers
+167,"Financial and Insurance Service Branch Managers, Other",1346.9900,1227.90,Managers,Production and Specialized Services Managers,Information and Communications Technology Services Manager,Financial and Insurance Service Branch Managers
+168,"Manager, Lodging and Catering Services/Resident Manager",1411.0100,1225.10,Managers,"Hospitality, Retail and Other Services Managers",Hotel and Restaurant Managers,Hotel Managers
+169,"General Manager, Lodging and Catering Services",1411.0200,1305.10,Managers,"Hospitality, Retail and Other Services Managers",Hotel and Restaurant Managers,Hotel Managers
+170,"Hotel Managers, Others",1411.9900,1225.90,Managers,"Hospitality, Retail and Other Services Managers",Hotel and Restaurant Managers,Hotel Managers
+171,"Manager, Fast Food Service",1412.0100,1225.20,Managers,"Hospitality, Retail and Other Services Managers",Hotel and Restaurant Managers,Restaurant Managers
+172,"Restaurant Managers, Other",1412.9900,1305.90,Managers,"Hospitality, Retail and Other Services Managers",Hotel and Restaurant Managers,Restaurant Managers
+173,"Manager, Retail Trade",1420.0200,1224.20,Managers,"Hospitality, Retail and Other Services Managers",Retail and Wholesale Trade Managers,Retail and Wholesale Trade Managers
+174,"Manager, Export",1420.0300,1224.30,Managers,"Hospitality, Retail and Other Services Managers",Retail and Wholesale Trade Managers,Retail and Wholesale Trade Managers
+175,"General Manager, Wholesale Trade/Senior Manager, Wholesale Trade",1420.0400,1304.10,Managers,"Hospitality, Retail and Other Services Managers",Retail and Wholesale Trade Managers,Retail and Wholesale Trade Managers
+176,"General Manager, Retail Trade, Senior Manager, Retail Trade",1420.0500,1304.20,Managers,"Hospitality, Retail and Other Services Managers",Retail and Wholesale Trade Managers,Retail and Wholesale Trade Managers
+177,"Retail and Wholesale Trade Managers, Other",1420.9900,1304.90,Managers,"Hospitality, Retail and Other Services Managers",Retail and Wholesale Trade Managers,Retail and Wholesale Trade Managers
+178,"Manager, Wholesale Trade",1420.0100,1224.10,Managers,"Hospitality, Retail and Other Services Managers",Retail and Wholesale Trade Managers,Retail and Wholesale Trade Managers
+179,"General Manager, Recreation and Entertainment",1431.0100,1309.10,Managers,"Hospitality, Retail and Other Services Managers",Other Services Managers,"Sports, Recreation and Cultural Centre Managers"
+180,"Sports, Recreation and Cultural Centre Manager, Other",1431.9900,1309.90,Managers,"Hospitality, Retail and Other Services Managers",Other Services Managers,"Sports, Recreation and Cultural Centre Managers"
+181,Metrologist,2111.1000,2119.10,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Physicists and Astronomers
+182,Material Scientist,2111.1100,2119.20,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Physicists and Astronomers
+183,"Physicists and Astronomers, Other",2111.9900,2111.90,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Physicists and Astronomers
+184,"Physicist, General",2111.0100,2111.10,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Physicists and Astronomers
+185,"Physicist, Mechanics",2111.0200,2111.15,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Physicists and Astronomers
+186,"Physicist, Heat",2111.0300,2111.20,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Physicists and Astronomers
+187,"Physicist, Light",2111.0400,2111.25,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Physicists and Astronomers
+188,"Physicist, Sound",2111.0500,2111.30,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Physicists and Astronomers
+189,"Physicist, Electricity and Magnetism",2111.0600,2111.35,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Physicists and Astronomers
+190,"Physicist, Electronics",2111.0700,2111.40,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Physicists and Astronomers
+191,"Physicist, Nuclear",2111.0800,2111.50,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Physicists and Astronomers
+192,Astronomer,2111.0900,2111.60,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Physicists and Astronomers
+193,Meteorologist,2112.0100,2112.10,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Meteorologists
+194,"Meteorologists, Other",2112.9900,2112.90,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Meteorologists
+195,"Chemist, Forensic Science",2113.0800,2113.80,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Chemists
+196,Quality Assurance Chemist,2113.0901,,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Chemists
+197,"Chemists, Other",2113.9900,2113.90,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Chemists
+198,"Chemist, General",2113.0100,2113.10,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Chemists
+199,"Chemist, Organic",2113.0200,2113.20,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Chemists
+200,"Chemist, Inorganic",2113.0300,2113.30,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Chemists
+201,"Chemist, Physical",2113.0400,2113.40,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Chemists
+202,"Chemist, Analytical",2113.0500,2113.50,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Chemists
+203,"Chemist, Industrial",2113.0600,2113.60,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Chemists
+204,Quality Control Chemist,2113.0601,,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Chemists
+205,Lab Chemist – Finished Product Testing,2113.0621,,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Chemists
+206,Lab Chemist – Incoming Raw Material Testing,2113.0622,,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Chemists
+207,Lab Chemist – Compound Testing – Batch Release,2113.0623,,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Chemists
+208,Lab Chemist – Cured Compound Testing,2113.0624,,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Chemists
+209,Geologist,2114.0100,2114.10,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Geologists and Geophysicists
+210,Petrologists,2114.0200,2114.20,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Geologists and Geophysicists
+211,Palaeontologist,2114.0300,2114.30,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Geologists and Geophysicists
+212,Geophysicist,2114.0400,2114.40,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Geologists and Geophysicists
+213,Hydrologist,2114.0500,2114.50,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Geologists and Geophysicists
+214,Mineralogist,2114.0600,2114.60,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Geologists and Geophysicists
+215,Seismologist,2114.0700,2114.70,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Geologists and Geophysicists
+216,Oceanographer,2114.0800,2114.80,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Geologists and Geophysicists
+217,"Geologist, Petroleum",2114.1500,2114.15,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Geologists and Geophysicists
+218,"Hydrographer, Waterworks",2114.5500,2114.55,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Geologists and Geophysicists
+219,"Geologists and Geophysicists, Other",2114.9900,2114.90,Professionals,Science and Engineering Professionals,Physical and Earth Science Professionals,Geologists and Geophysicists
+220,Statistician,2120.0300,2122.10,Professionals,Science and Engineering Professionals,"Mathematicians, Actuaries and Statisticians","Mathematicians, Actuaries and Statisticians"
+221,"Statistician, Applied",2120.0400,2122.20,Professionals,Science and Engineering Professionals,"Mathematicians, Actuaries and Statisticians","Mathematicians, Actuaries and Statisticians"
+222,Operation Research Analyst,2120.0500,2122.30,Professionals,Science and Engineering Professionals,"Mathematicians, Actuaries and Statisticians","Mathematicians, Actuaries and Statisticians"
+223,Associate – Analytics,2120.0501,,Professionals,Science and Engineering Professionals,"Mathematicians, Actuaries and Statisticians","Mathematicians, Actuaries and Statisticians"
+224,"Mathematicians, Actuaries and Statisticians, Other",2120.9900,2122.90,Professionals,Science and Engineering Professionals,"Mathematicians, Actuaries and Statisticians","Mathematicians, Actuaries and Statisticians"
+225,Mathematician,2120.0100,2121.10,Professionals,Science and Engineering Professionals,"Mathematicians, Actuaries and Statisticians","Mathematicians, Actuaries and Statisticians"
+226,Actuary,2120.0200,2121.20,Professionals,Science and Engineering Professionals,"Mathematicians, Actuaries and Statisticians","Mathematicians, Actuaries and Statisticians"
+227,Bacteriologist,2131.1200,2211.85,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Biologists, Botanists, Zoologists and Related Professionals"
+228,"Chemist, Biological",2131.1300,2212.10,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Biologists, Botanists, Zoologists and Related Professionals"
+229,"Chemist, Food",2131.1400,2212.20,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Biologists, Botanists, Zoologists and Related Professionals"
+230,Plant Pathologist,2131.1500,2212.70,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Biologists, Botanists, Zoologists and Related Professionals"
+231,Plant Physiologist,2131.1800,2212.80,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Biologists, Botanists, Zoologists and Related Professionals"
+232,"Biologist, General",2131.0100,2211.10,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Biologists, Botanists, Zoologists and Related Professionals"
+233,"Biologists, Botanists, Zoologists and Related Professionals, Other",2131.9900,2211.90,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Biologists, Botanists, Zoologists and Related Professionals"
+234,Marine Biologist,2131.0200,2211.15,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Biologists, Botanists, Zoologists and Related Professionals"
+235,Cytologist,2131.0300,2211.20,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Biologists, Botanists, Zoologists and Related Professionals"
+236,"Botanist, General",2131.0400,2211.35,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Biologists, Botanists, Zoologists and Related Professionals"
+237,Economic Botanist,2131.0500,2211.37,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Biologists, Botanists, Zoologists and Related Professionals"
+238,Plant Breeder,2131.0600,2211.40,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Biologists, Botanists, Zoologists and Related Professionals"
+239,Mycologist,2131.0700,2211.50,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Biologists, Botanists, Zoologists and Related Professionals"
+240,Algologist,2131.0800,2211.55,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Biologists, Botanists, Zoologists and Related Professionals"
+241,"Zoologist, General",2131.0900,2211.60,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Biologists, Botanists, Zoologists and Related Professionals"
+242,Entomologist,2131.1000,2211.65,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Biologists, Botanists, Zoologists and Related Professionals"
+243,Parasitologist,2131.1100,2211.70,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Biologists, Botanists, Zoologists and Related Professionals"
+244,"Agronomists and Related Professionals, Other",2132.9900,2213.90,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Farming, Forestry and Fisheries Advisors"
+245,Agronomist,2132.0100,2213.10,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Farming, Forestry and Fisheries Advisors"
+246,Horticulturist,2132.0200,2213.20,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Farming, Forestry and Fisheries Advisors"
+247,Soil Scientist,2132.0300,2213.30,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Farming, Forestry and Fisheries Advisors"
+248,Soil Conservationist,2132.0400,2213.40,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Farming, Forestry and Fisheries Advisors"
+249,Silviculturist,2132.0500,2213.50,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Farming, Forestry and Fisheries Advisors"
+250,Wood Anatomist,2132.0600,2213.60,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Farming, Forestry and Fisheries Advisors"
+251,Dairy Scientist,2132.0700,2213.70,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Farming, Forestry and Fisheries Advisors"
+252,Poultry Scientist,2132.0800,2213.80,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Farming, Forestry and Fisheries Advisors"
+253,Pisciculturist,2132.0900,2211.80,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Farming, Forestry and Fisheries Advisors"
+254,"Farm Overseer, Crop Production",2132.1000,3213.10,Professionals,Science and Engineering Professionals,Life Sciences Professionals,"Farming, Forestry and Fisheries Advisors"
+255,Ecologist,2133.0100,2211.25,Professionals,Science and Engineering Professionals,Life Sciences Professionals,Environmental Protection Professionals
+256,Environment Scientist (Including Health),2133.0200,2211.27,Professionals,Science and Engineering Professionals,Life Sciences Professionals,Environmental Protection Professionals
+257,Taxonomist,2133.0300,2211.30,Professionals,Science and Engineering Professionals,Life Sciences Professionals,Environmental Protection Professionals
+258,Paleobotanist,2133.0400,2211.45,Professionals,Science and Engineering Professionals,Life Sciences Professionals,Environmental Protection Professionals
+259,Nuclear Engineer,2141.1100,2149.23,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+260,Jute Technologist,2141.1200,2149.25,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+261,Fibre Technologist,2141.1300,2149.30,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+262,Spinning Master,2141.1400,2149.35,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+263,Weaving Master,2141.1500,2149.40,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+264,"Works Inspector, Engineering/Inspection Engineer",2141.0100,2149.10,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+265,Dyeing and Bleaching Master (Textiles),2141.1600,2149.45,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+266,Instrument Engineer/Instrumentation Engineer,2141.0200,2149.15,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+267,Printing Master (Textile),2141.1700,2149.50,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+268,Industrial Engineer,2141.0300,2149.76,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+269,Sugar Technologist,2141.1800,2149.55,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+270,Industrial Engineer Executive,2141.0301,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+271,Dairy Technologist,2141.1900,2149.57,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+272,Packaging Engineer,2141.0400,2149.77,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+273,Wood Technologist,2141.2000,2149.60,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+274,Planning Engineer,2141.0500,2149.78,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+275,Leather Technologist,2141.2100,2149.65,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+276,Production Planning & Control Engineer,2141.0501,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+277,Glass Technologist,2141.2200,2149.70,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+278,Methods Engineer,2141.0600,2149.80,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+279,Ceramic Technologist,2141.2300,2149.72,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+280,Engineering Estimator/Estimation Engineer,2141.0800,2149.84,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+281,Printing Technologist,2141.2400,2149.74,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+282,Agricultural Engineer,2141.0900,2149.18,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+283,Safety Engineer,2141.2500,2149.85,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+284,Textile Technologist,2141.1000,2149.20,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+285,Occupational Health and Safety Specialist,2141.2600,2149.86,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Industrial and Production Engineers
+286,"Civil Engineer, General",2142.0100,2142.10,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Civil Engineers
+287,"Civil Engineer, Building",2142.0200,2142.20,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Civil Engineers
+288,"Civil Engineer, Structural",2142.0300,2142.30,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Civil Engineers
+289,Plumbing Site Engineer,2142.0301,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Civil Engineers
+290,"Civil Engineer, Irrigation",2142.0400,2142.40,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Civil Engineers
+291,Hydraulic Engineer,2142.0500,2142.45,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Civil Engineers
+292,Fire Protection Systems Design Engineer,2142.0501,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Civil Engineers
+293,"Civil Engineer, Highways and Roads",2142.0600,2142.50,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Civil Engineers
+294,"Civil Engineer, Railways",2142.0700,2142.60,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Civil Engineers
+295,Airport Engineer,2142.0800,2142.65,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Civil Engineers
+296,"Civil Engineer, Public Health",2142.0900,2142.70,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Civil Engineers
+297,Public Health System Design Engineer,2142.0901,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Civil Engineers
+298,"Engineer, Waterworks",2142.1000,2142.72,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Civil Engineers
+299,Groundwater Engineer,2142.1001,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Civil Engineers
+300,Wastewater Systems Design,2142.1002,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Civil Engineers
+301,"Civil Engineers, Other",2142.9900,2142.90,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Civil Engineers
+302,Solar Energy System Designer,2143.0100,2149.05,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Environmental Engineers
+303,Bio-Medical Engineer,2143.0200,2149.17,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Environmental Engineers
+304,Radiation Protection Engineer,2143.0300,2149.22,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Environmental Engineers
+305,"Waste Management Engineer, Radioactive Material",2143.0400,2149.87,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Environmental Engineers
+306,Pollution Control Engineer,2143.0500,2149.88,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Environmental Engineers
+307,"Mechanical Engineer, Production",2144.0401,2145.25,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+308,"Mechanical Engineer, Air-Conditioning",2144.1200,2145.60,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+309,Product Conceptualization Engineer,2144.0402,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+310,Layout Engineer,2144.1301,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+311,Production Engineer,2144.0403,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+312,Industrial Engineer (Workstation Design),2144.1302,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+313,"Mechanical Engineer, Structural",2144.0500,2145.30,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+314,Service Engineer – Installation,2144.1401,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+315,"Mechanical Engineer, Maintenance",2144.0600,2145.35,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+316,Service Engineer – Installation and Commissioning,2144.1402,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+317,"Mechanical Engineer, General",2144.0100,2145.10,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+318,Service Engineer – Breakdown Service,2144.0601,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+319,"Mechanical Engineers, Other",2144.9900,2145.90,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+320,Process Design Engineer,2144.0101,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+321,"Mechanical Engineer, Automobile",2144.0700,2145.40,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+322,Process Try-Out Engineer,2144.0102,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+323,Prototyping Engineer,2144.0701,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+324,Process Try-Out Technician,2144.0103,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+325,Automobile Designer,2144.0800,2145.42,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+326,Process Validation Executive,2144.0104,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+327,Product Design Manager,2144.0801,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+328,"Manager, Process Engineering",2144.0105,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+329,Modeller,2144.0802,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+330,Manager – Product Lifecycle Management,2144.0106,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+331,Product Design Engineer,2144.0803,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+332,"Designer, Machine",2144.0200,2145.15,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+333,Prototyping Manager,2144.0804,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+334,Designer - Mechanical,2144.0201,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+335,"Mechanical Engineer, Aeronautical",2144.0900,2145.45,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+336,Tool Engineer,2144.0300,2145.20,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+337,"Mechanical Engineer, Marine",2144.1000,2145.50,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+338,Equipment Designer,2144.0301,,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+339,"Architect, Naval",2144.1100,2145.55,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Mechanical Engineers
+340,"Technologist, Paper",2145.1100,2146.68,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Chemical Engineers
+341,"Technologist, Alcohol",2145.1200,2146.70,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Chemical Engineers
+342,"Technologist, Rubber",2145.1300,2146.80,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Chemical Engineers
+343,"Technologist, Plastics",2145.1400,2146.85,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Chemical Engineers
+344,"Chemical Engineers and Technologists, Other",2145.9900,2146.90,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Chemical Engineers
+345,"Chemical Engineer, General",2145.0100,2146.10,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Chemical Engineers
+346,"Designer, Chemical Engineering",2145.0200,2146.20,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Chemical Engineers
+347,"Chemical Engineer, Paints and Varnish",2145.0300,2146.30,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Chemical Engineers
+348,"Chemical Engineer, Drugs and Acids",2145.0400,2146.35,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Chemical Engineers
+349,"Chemical Engineer, Petroleum",2145.0500,2146.40,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Chemical Engineers
+350,"Chemical Engineer, Fertilizers",2145.0600,2146.45,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Chemical Engineers
+351,"Chemical Engineer, Food",2145.0700,2146.50,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Chemical Engineers
+352,"Technologist, Food/Chemical Engineer",2145.0800,2146.55,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Chemical Engineers
+353,"Technologist, Fuel",2145.0900,2146.60,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Chemical Engineers
+354,Oil Technologist,2145.1000,2146.62,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Chemical Engineers
+355,"Metallurgist, Extractive",2146.0500,2147.40,Professionals,Science and Engineering Associate Professionals,Engineering Professionals (Excluding Electro technology),"Mining Engineers, Metallurgists and Related Professionals"
+356,"Mining Engineer, General",2146.0100,2147.10,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),"Mining Engineers, Metallurgists and Related Professionals"
+357,"Mining Engineer, Non-Metals",2146.0200,2147.20,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),"Mining Engineers, Metallurgists and Related Professionals"
+358,"Mining Engineer, Metal",2146.0300,2147.25,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),"Mining Engineers, Metallurgists and Related Professionals"
+359,"Mining Engineer, Petroleum and Gas",2146.0400,2147.30,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),"Mining Engineers, Metallurgists and Related Professionals"
+360,Manager Heat Treatment/Metallurgist,2146.0501,,Professionals,Science and Engineering Associate Professionals,Engineering Professionals (Excluding Electro technology),"Mining Engineers, Metallurgists and Related Professionals"
+361,"Metallurgists, Adaptive",2146.0600,2147.50,Professionals,Science and Engineering Associate Professionals,Engineering Professionals (Excluding Electro technology),"Mining Engineers, Metallurgists and Related Professionals"
+362,"Mining Engineers, Metallurgists and Related Professionals, Other",2146.9900,2147.90,Professionals,Science and Engineering Associate Professionals,Engineering Professionals (Excluding Electro technology),"Mining Engineers, Metallurgists and Related Professionals"
+363,"Engineers and Related Technologists, Other",2149.0100,2149.90,Professionals,Science and Engineering Professionals,Engineering Professionals (Excluding Electro technology),Engineering Professionals Not Elsewhere Classified
+364,LED Light Design Engineer,2151.0403,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electrical Engineers
+365,LED Light Design Validation Engineer,2151.0404,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electrical Engineers
+366,System Analyst (PCB Design),2151.0601,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electrical Engineers
+367,Systems Designer (PCB Design),2151.0602,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electrical Engineers
+368,Design-For-Manufacture Engineer,2151.0701,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electrical Engineers
+369,"Electrical Engineers, Other",2151.9900,2143.90,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electrical Engineers
+370,"Electrical Engineer, General",2151.0100,2149.90,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electrical Engineers
+371,"Designer, Electrical Engineering",2151.0200,2143.20,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electrical Engineers
+372,Design Engineer,2151.0201,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electrical Engineers
+373,Electrical Design Developer,2151.0202,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electrical Engineers
+374,"Electrical Engineer, Generation and Supply",2151.0300,2143.30,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electrical Engineers
+375,Illumination Engineer,2151.0400,2143.40,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electrical Engineers
+376,Electronic Engineer,2152.0200,2144.60,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electronics Engineers
+377,Stress Analyst/Computer-Aided Test Executive,2152.0301,2144.65,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electronics Engineers
+378,Electro-Optical Engineer,2152.0400,2144.70,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electronics Engineers
+379,Design Engineer,2152.0501,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electronics Engineers
+380,Design-For-Test Engineer,2152.0502,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electronics Engineers
+381,Quality Engineer,2152.0601,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electronics Engineers
+382,Electronic Hardware Design Engineer,2152.0801,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electronics Engineers
+383,Verification Engineer,2152.0901,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electronics Engineers
+384,Testing and Validation Engineer,2152.0902,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electronics Engineers
+385,"Electronics Engineers, Other",2152.9900,2144.90,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Electronics Engineers
+386,"Telecommunication Engineer, General",2153.0100,2144.10,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Telecommunication Engineers
+387,Telecom Terminal Equipment Application Developer (Android),2153.0101,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Telecommunication Engineers
+388,Telecom Terminal Equipment Application (Native Applications),2153.0102,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Telecommunication Engineers
+389,"Radio Engineer, Telecommunication",2153.0200,2144.20,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Telecommunication Engineers
+390,"Microwave Engineer, Telecommunication",2153.0300,2144.30,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Telecommunication Engineers
+391,"Line Communication Engineer, TeleCommunication/Telecommunication Engineer/Technician",2153.0400,2144.40,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Telecommunication Engineers
+392,Sound Engineer,2153.0500,2144.50,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Telecommunication Engineers
+393,"Sound Engineer, Media",2153.0501,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Telecommunication Engineers
+394,Sound Designer,2153.0511,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Telecommunication Engineers
+395,Core Engineer,2153.0601,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Telecommunication Engineers
+396,"Telecommunication Engineers, Other",2153.9900,,Professionals,Science and Engineering Professionals,Electrotechnology Engineers,Telecommunication Engineers
+397,Architect,2161.0100,2141.10,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Building Architects
+398,"Building Architects, Other",2161.9900,2141.90,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Building Architects
+399,Furniture Designer,2163.0400,3471.20,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Product and Garment Designers
+400,Fashion Designer,2163.0500,3471.40,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Product and Garment Designers
+401,Textile Designer,2163.0600,3471.45,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Product and Garment Designers
+402,Package Designer/Packaging Designer,2163.0100,3471.80,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Product and Garment Designers
+403,Design Merchandiser,2163.0201,,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Product and Garment Designers
+404,Hand Sketch Designer (Basic),2163.0301,,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Product and Garment Designers
+405,Town Planner,2164.0100,2141.20,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Town and Traffic Planners
+406,Traffic Planner,2164.0200,2141.30,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Town and Traffic Planners
+407,Cartographer,2165.0100,2148.10,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Cartographers and Surveyors
+408,"Surveyor, Topographical",2165.0200,2148.20,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Cartographers and Surveyors
+409,Aerial – Photograph Interpreter,2165.0300,2148.25,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Cartographers and Surveyors
+410,"Surveyor, Photogrammetric",2165.0400,2148.30,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Cartographers and Surveyors
+411,"Surveyor, Mine",2165.0500,2148.40,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Cartographers and Surveyors
+412,"Surveyor, Hydrographic",2165.0600,2148.50,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Cartographers and Surveyors
+413,"Cartographers and Surveyors, Other",2165.9900,2148.90,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Cartographers and Surveyors
+414,Rigging Artist,2166.0203,,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+415,Texturing Artist,2166.0204,,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+416,Animation Director,2166.0205,,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+417,Character Designer,2166.0206,,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+418,Clean-Up Artist,2166.0207,,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+419,Compositor,2166.0208,,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+420,Storyboard Artist,2166.0209,,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+421,Rendering Artist,2166.0210,,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+422,VFX Editor,2166.0211,,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+423,Roto Artist,2166.0212,,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+424,Web Designer,2166.0300,2452.80,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+425,Designer (CAD),2166.0401,,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+426,Commercial Artist,2166.0100,2452.60,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+427,Graphic Designer,2166.0501,3471.70,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+428,Art Director,2166.0111,,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+429,Colour Key Artist,2166.0511,,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+430,Multimedia Artist and Animator/Animator,2166.0201,2452.70,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+431,Colourist,2166.0512,,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+432,Modeller,2166.0202,,Professionals,Science and Engineering Professionals,"Architects, Planners, Surveyors and Designers",Graphic and Multimedia Designers
+433,"Surgeon, General",2211.0200,2221.15,Professionals,Health Associate Professionals,Medical Doctors,Generalist Medical Practitioners
+434,"Anatomist, Medical",2211.0300,2221.20,Professionals,Health Associate Professionals,Medical Doctors,Generalist Medical Practitioners
+435,Anaesthetist,2211.0400,2221.25,Professionals,Health Associate Professionals,Medical Doctors,Generalist Medical Practitioners
+436,Psychiatrist,2211.0500,2221.30,Professionals,Health Associate Professionals,Medical Doctors,Generalist Medical Practitioners
+437,"Generalist Medical Practitioners, Allopathic, Other",2211.9900,2221.90,Professionals,Health Associate Professionals,Medical Doctors,Generalist Medical Practitioners
+438,"Physician, General",2211.0100,2221.10,Professionals,Health Associate Professionals,Medical Doctors,Generalist Medical Practitioners
+439,Gynaecologist,2212.1200,2221.78,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+440,Paediatrician,2212.1300,2221.80,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+441,Orthopaedist,2212.1400,2221.85,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+442,Pharmacologist,2212.1500,2212.30,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+443,Toxicologist (Pharmaceutical),2212.1600,2212.35,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+444,Neurologist,2212.0100,2221.35,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+445,"Pathologist, Medical",2212.1700,2212.40,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+446,Dermatologist,2212.0200,2221.40,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+447,"Malariologist, Medical",2212.1800,2212.45,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+448,Allergy Specialist,2212.0300,2221.42,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+449,"Physiologist, Medical",2212.1900,2212.50,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+450,"Ear, Nose and Throat Specialist",2212.0400,2221.45,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+451,"Specialist Medical Practitioners, Other",2212.9900,2212.90,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+452,Cardiologist,2212.0500,2221.50,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+453,Radiologist,2212.0600,2221.55,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+454,Tuberculosis Specialist,2212.0700,2221.60,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+455,Ophthalmologist,2212.0800,2221.65,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+456,Urologist,2212.0900,2221.68,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+457,Venereologist,2212.1000,2221.70,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+458,Obstetrician,2212.1100,2221.75,Professionals,Health Associate Professionals,Medical Doctors,Specialist Medical Practitioners
+459,"Nurse, Specialist",2221.0100,2230.10,Professionals,Health Associate Professionals,Nursing and Midwifery Professionals,Nursing Professionals
+460,"Professional Nurses, Other",2221.9900,2230.90,Professionals,Health Associate Professionals,Nursing and Midwifery Professionals,Nursing Professionals
+461,"Physician, Ayurvedic",2230.0100,2222.10,Professionals,Health Associate Professionals,Traditional and Complementary Medicine Professionals,Traditional and Complementary Medicine Professionals
+462,"Physician, Homeopathic",2230.0200,2223.10,Professionals,Health Associate Professionals,Traditional and Complementary Medicine Professionals,Traditional and Complementary Medicine Professionals
+463,"Physician, Bio-Chemic/Bio Chemist",2230.0300,2223.20,Professionals,Health Associate Professionals,Traditional and Complementary Medicine Professionals,Traditional and Complementary Medicine Professionals
+464,"Physician, Unani",2230.0400,2224.10,Professionals,Health Associate Professionals,Traditional and Complementary Medicine Professionals,Traditional and Complementary Medicine Professionals
+465,"Traditional Medicine Practitioners, Other",2230.9900,3241.90,Professionals,Health Associate Professionals,Traditional and Complementary Medicine Professionals,Traditional and Complementary Medicine Professionals
+466,"Laboratory Assistant, Clinical",2240.0100,3221.10,Professionals,Health Associate Professionals,Paramedical Practitioners,Paramedical Practitioners
+467,Dresser,2240.0400,3221.40,Professionals,Health Associate Professionals,Paramedical Practitioners,Paramedical Practitioners
+468,Emergency Medical Technician – Basic,2240.0501,,Professionals,Health Associate Professionals,Paramedical Practitioners,Paramedical Practitioners
+469,Emergency Medical Technician – Advanced,2240.0502,,Professionals,Health Associate Professionals,Paramedical Practitioners,Paramedical Practitioners
+470,"Paramedical Practitioners, Other",2240.9900,,Professionals,Health Associate Professionals,Paramedical Practitioners,Paramedical Practitioners
+471,Animal Pathologist,2250.0100,2212.60,Professionals,Health Associate Professionals,Veterinarians,Veterinarians
+472,"Veterinarian, General",2250.0200,2226.10,Professionals,Health Associate Professionals,Veterinarians,Veterinarians
+473,"Veterinarian, Surgeon",2250.0300,2226.20,Professionals,Health Associate Professionals,Veterinarians,Veterinarians
+474,Animal Genetist,2250.0400,2226.30,Professionals,Health Associate Professionals,Veterinarians,Veterinarians
+475,Zoo Veterinarian,2250.0500,2226.40,Professionals,Health Associate Professionals,Veterinarians,Veterinarians
+476,"Veterinarian, Poultry",2250.0600,2226.50,Professionals,Health Associate Professionals,Veterinarians,Veterinarians
+477,"Veterinarians, Other",2250.9900,2226.90,Professionals,Health Associate Professionals,Veterinarians,Veterinarians
+478,Prosthodontist,2261.0500,2225.50,Professionals,Health Associate Professionals,Other Health Professionals,Dentists
+479,Paediatric Dentist,2261.0600,2225.60,Professionals,Health Associate Professionals,Other Health Professionals,Dentists
+480,"Dental Specialists, Other",2261.9900,2225.90,Professionals,Health Associate Professionals,Other Health Professionals,Dentists
+481,Dentist,2261.0100,2225.10,Professionals,Health Associate Professionals,Other Health Professionals,Dentists
+482,Oral and Maxillofacial Surgeon,2261.0200,2225.20,Professionals,Health Associate Professionals,Other Health Professionals,Dentists
+483,Orthodontist,2261.0300,2225.30,Professionals,Health Associate Professionals,Other Health Professionals,Dentists
+484,Periodontist,2261.0400,2225.40,Professionals,Health Associate Professionals,Other Health Professionals,Dentists
+485,"Chemist, Pharmaceuticals",2262.0100,2113.70,Professionals,Health Associate Professionals,Other Health Professionals,Pharmacists
+486,"Chemist, Pharmaceuticals",2262.0101,,Professionals,Health Associate Professionals,Other Health Professionals,Pharmacists
+487,Health Officer,2263.0100,2229.10,Professionals,Health Associate Professionals,Other Health Professionals,Environmental and Occupational Health and Hygiene Professionals
+488,"Administrator, Hospital",2263.0200,2229.15,Professionals,Health Associate Professionals,Other Health Professionals,Environmental and Occupational Health and Hygiene Professionals
+489,"Environmental and Occupational Health and Hygiene Professionals, Other",2263.9900,3152.90,Professionals,Health Associate Professionals,Other Health Professionals,Environmental and Occupational Health and Hygiene Professionals
+490,Physiotherapist,2264.0100,3226.10,Professionals,Health Associate Professionals,Other Health Professionals,Physiotherapists
+491,Occupational Therapist,2264.0200,3226.20,Professionals,Health Associate Professionals,Other Health Professionals,Physiotherapists
+492,Chiropodist,2264.0300,3226.30,Professionals,Health Associate Professionals,Other Health Professionals,Physiotherapists
+493,Masseur,2264.0400,3226.40,Professionals,Health Associate Professionals,Other Health Professionals,Physiotherapists
+494,Sports Masseur,2264.0401,,Professionals,Health Associate Professionals,Other Health Professionals,Physiotherapists
+495,"Physiotherapists and Related Associate Professionals, Other",2264.9900,3226.90,Professionals,Health Associate Professionals,Other Health Professionals,Physiotherapists
+496,Dietician Assistant,2265.0201,,Professionals,Health Associate Professionals,Other Health Professionals,Dieticians and Nutritionists
+497,Animal Nutritionist,2265.0300,3223.30,Professionals,Health Associate Professionals,Other Health Professionals,Dieticians and Nutritionists
+498,"Dieticians and Nutritionists, Other",2265.9900,3223.90,Professionals,Health Associate Professionals,Other Health Professionals,Dieticians and Nutritionists
+499,"Nutritionist, General",2265.0100,3223.10,Professionals,Health Associate Professionals,Other Health Professionals,Dieticians and Nutritionists
+500,"Dietician, General",2265.0200,3223.20,Professionals,Health Associate Professionals,Other Health Professionals,Dieticians and Nutritionists

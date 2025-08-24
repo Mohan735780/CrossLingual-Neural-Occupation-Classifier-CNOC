@@ -1,0 +1,501 @@
+sno,title,nco_2015,nco_2004,division,sub_division,group,family
+501,Speech Therapist and Audiologist,2266.0100,3229.10,Professionals,Health Associate Professionals,Other Health Professionals,Audiologists and Speech Therapists
+502,Speech Pathologist,2266.0200,3229.20,Professionals,Health Associate Professionals,Other Health Professionals,Audiologists and Speech Therapists
+503,Voice Pathologist,2266.0300,3229.30,Professionals,Health Associate Professionals,Other Health Professionals,Audiologists and Speech Therapists
+504,Speech Language Pathologist and Audiologist,2266.0401,,Professionals,Health Associate Professionals,Other Health Professionals,Audiologists and Speech Therapists
+505,"Optometrists and Opticians, Other",2267.9900,3224.90,Professionals,Health Associate Professionals,Other Health Professionals,Optometrists and Ophthalmic Opticians
+506,"Physicians and Surgeons, Other",2269.0400,2229.90,Professionals,Health Associate Professionals,Other Health Professionals,Health Professionals Not Elsewhere Classified
+507,Orthotist and Prosthetist,2269.0500,3229.40,Professionals,Health Associate Professionals,Other Health Professionals,Health Professionals Not Elsewhere Classified
+508,Orientation & Mobility Instructor,2269.0600,3229.50,Professionals,Health Associate Professionals,Other Health Professionals,Health Professionals Not Elsewhere Classified
+509,"Medical and Health Technicians, Other",2269.0700,3229.90,Professionals,Health Associate Professionals,Other Health Professionals,Health Professionals Not Elsewhere Classified
+510,Naturopath,2269.0100,2229.20,Professionals,Health Associate Professionals,Other Health Professionals,Health Professionals Not Elsewhere Classified
+511,"Physician, Osteopathic",2269.0200,2229.30,Professionals,Health Associate Professionals,Other Health Professionals,Health Professionals Not Elsewhere Classified
+512,"Physician, Sidha",2269.0300,2229.40,Professionals,Health Associate Professionals,Other Health Professionals,Health Professionals Not Elsewhere Classified
+513,"Professors/Assistant Professors, Other",2310.9900,2310.90,Professionals,Teaching Professionals,University and Higher Education Teachers,University and Higher Education Teachers
+514,"University and College Teacher, Arts Subjects/Professors/Assistant Professors, Arts",2310.0100,2310.10,Professionals,Teaching Professionals,University and Higher Education Teachers,University and Higher Education Teachers
+515,"University and College Teacher, Commerce Subjects/Professors/Assistant Professors, Commerce Subjects",2310.0200,2310.15,Professionals,Teaching Professionals,University and Higher Education Teachers,University and Higher Education Teachers
+516,"University and College Teacher, Management Subjects/Professors/Assistant Professors, Management Subjects",2310.0300,2310.18,Professionals,Teaching Professionals,University and Higher Education Teachers,University and Higher Education Teachers
+517,"University and College Teacher, Law/Professors/Assistant Professors, Education",2310.0400,2310.20,Professionals,Teaching Professionals,University and Higher Education Teachers,University and Higher Education Teachers
+518,"University and College Teacher, Law/Professors/Assistant Professors, Law",2310.0500,2310.30,Professionals,Teaching Professionals,University and Higher Education Teachers,University and Higher Education Teachers
+519,"University and College Teacher, Science Subjects/Professors/Assistant Professors, Science Subjects",2310.0600,2310.40,Professionals,Teaching Professionals,University and Higher Education Teachers,University and Higher Education Teachers
+520,"University and College Teacher, Engineering/ Professors/Assistant Professors, Engineering",2310.0700,2310.45,Professionals,Teaching Professionals,University and Higher Education Teachers,University and Higher Education Teachers
+521,"University and College Teacher, Information Technology/Professors/Assistant Professors, Information Technology",2310.0800,2310.48,Professionals,Teaching Professionals,University and Higher Education Teachers,University and Higher Education Teachers
+522,"University and College Teacher, Medicine and Surgery/Professors/Assistant Professors, Medicine and Surgery",2310.0900,2310.50,Professionals,Teaching Professionals,University and Higher Education Teachers,University and Higher Education Teachers
+523,"University and College Teacher, Veterinary Science/Professors/Assistant Professors, Veterinary Science",2310.1000,2310.60,Professionals,Teaching Professionals,University and Higher Education Teachers,University and Higher Education Teachers
+524,"University and College Teacher, Agricultural Subjects",2310.1100,2310.70,Professionals,Teaching Professionals,University and Higher Education Teachers,University and Higher Education Teachers
+525,"University and College Teacher, Fine Arts/Professors/Assistant Professors, Fine Arts",2310.1200,2310.80,Professionals,Teaching Professionals,University and Higher Education Teachers,University and Higher Education Teachers
+526,Certified Training Assessor,2320.0101,,Professionals,Teaching Professionals,Vocational Education Teachers,Vocational Education Teachers
+527,Physical Security Trainer,2320.0102,,Professionals,Teaching Professionals,Vocational Education Teachers,Vocational Education Teachers
+528,"Senior Secondary and Secondary School Teacher, Arts",2330.0100,2320.10,Professionals,Teaching Professionals,Secondary Education Teachers,Secondary Education Teachers
+529,"Senior Secondary and Secondary School Teacher, Science",2330.0200,2320.12,Professionals,Teaching Professionals,Secondary Education Teachers,Secondary Education Teachers
+530,"Senior Secondary and Secondary School Teacher, Commerce",2330.0300,2320.15,Professionals,Teaching Professionals,Secondary Education Teachers,Secondary Education Teachers
+531,"Language Teacher, Senior Secondary and Secondary School",2330.0400,2320.20,Professionals,Teaching Professionals,Secondary Education Teachers,Secondary Education Teachers
+532,"Senior Secondary and Secondary School Teachers, Other",2330.9900,2320.90,Professionals,Teaching Professionals,Secondary Education Teachers,Secondary Education Teachers
+533,Middle School Teacher,2341.0100,3311.10,Professionals,Teaching Professionals,Primary School and Early Childhood Teachers,Primary School Teachers
+534,"Language Teacher, Middle School",2341.0200,3311.20,Professionals,Teaching Professionals,Primary School and Early Childhood Teachers,Primary School Teachers
+535,Primary School Teacher,2341.0400,3312.10,Professionals,Teaching Professionals,Primary School and Early Childhood Teachers,Primary School Teachers
+536,"Primary School Teachers, Other",2341.9900,3312.90,Professionals,Teaching Professionals,Primary School and Early Childhood Teachers,Primary School Teachers
+537,"Teacher, Infant School/Teacher Pre-Primary",2342.0100,3320.10,Professionals,Teaching Professionals,Primary School and Early Childhood Teachers,Early Childhood Educators
+538,"Pre-Primary Education Teaching Associate Professionals, Other",2342.9900,3320.90,Professionals,Teaching Professionals,Primary School and Early Childhood Teachers,Early Childhood Educators
+539,School Inspector,2351.0100,2332.10,Professionals,Teaching Professionals,Other Teaching Professionals,Education Method Specialists
+540,"Education Methods Specialists, Other",2351.9900,2331.90,Professionals,Teaching Professionals,Other Teaching Professionals,Education Method Specialists
+541,Art Teacher,2355.0100,2339.10,Professionals,Teaching Professionals,Other Teaching Professionals,Other Arts Teachers
+542,"Arts Teacher, Other",2355.9900,2339.90,Professionals,Teaching Professionals,Other Teaching Professionals,Other Arts Teachers
+543,Manual Training Teacher/Craft Instructor,2356.0100,3340.10,Professionals,Teaching Professionals,Other Teaching Professionals,Information Technology Trainers
+544,Master Trainer for Junior Software Developer,2356.0301,,Professionals,Teaching Professionals,Other Teaching Professionals,Information Technology Trainers
+545,"Information Technology Trainers, Other",2356.9900,3340.90,Professionals,Teaching Professionals,Other Teaching Professionals,Information Technology Trainers
+546,"Handwork Teacher/Teacher, Art and Craft",2359.0100,3340.20,Professionals,Teaching Professionals,Other Teaching Professionals,Teaching Professionals Not Elsewhere Classified
+547,Accountant,2411.0100,2411.10,Professionals,Business and Administrative Professionals,Finance Professionals,Accountants
+548,Associate – Transactional Finance & Accounting,2411.0101,,Professionals,Business and Administrative Professionals,Finance Professionals,Accountants
+549,Auditor,2411.0200,2411.20,Professionals,Business and Administrative Professionals,Finance Professionals,Accountants
+550,Associate – Finance & Accounting Complex,2411.0201,,Professionals,Business and Administrative Professionals,Finance Professionals,Accountants
+551,Cost Accountant,2411.0300,2411.30,Professionals,Business and Administrative Professionals,Finance Professionals,Accountants
+552,Financial Examiner,2412.0100,2411.40,Professionals,Business and Administrative Professionals,Finance Professionals,Financial and Investment Advisors
+553,Financial Analyst,2412.0200,2411.50,Professionals,Business and Administrative Professionals,Finance Professionals,Financial and Investment Advisors
+554,Budget Analyst,2412.0300,2411.60,Professionals,Business and Administrative Professionals,Finance Professionals,Financial and Investment Advisors
+555,Risk Management Analyst,2412.0300,2411.70,Professionals,Business and Administrative Professionals,Finance Professionals,Financial and Investment Advisors
+556,Agriculture Field Officer,2412.0501,,Professionals,Business and Administrative Professionals,Finance Professionals,Financial and Investment Advisors
+557,Commission Agent,2412.0600,3411.40,Professionals,Business and Administrative Professionals,Finance Professionals,Financial and Investment Advisors
+558,"Financial and Investment Advisors, Other",2412.9900,2411.90,Professionals,Business and Administrative Professionals,Finance Professionals,Financial and Investment Advisors
+559,Analyst – Research,2421.0101,,Professionals,Business and Administrative Professionals,Administration Professionals,Management and Organization Analysts
+560,Vocational Guidance Officer/Career Counsellors,2423.0100,2412.40,Professionals,Business and Administrative Professionals,Administration Professionals,Personal and Careers Professionals
+561,Associate – Recruitment,2423.0101,,Professionals,Business and Administrative Professionals,Administration Professionals,Personal and Careers Professionals
+562,Counsellor,2423.0200,2412.50,Professionals,Business and Administrative Professionals,Administration Professionals,Personal and Careers Professionals
+563,Occupational Analyst,2423.0500,2412.75,Professionals,Business and Administrative Professionals,Administration Professionals,Personal and Careers Professionals
+564,"Personal and Careers Professionals, Other",2423.9900,2412.90,Professionals,Business and Administrative Professionals,Administration Professionals,Personal and Careers Professionals
+565,Sales Training Manager,2424.0401,,Professionals,Business and Administrative Professionals,Administration Professionals,Training and Staff Development Professionals
+566,Sales/Service Trainer (Dealer),2424.0402,,Professionals,Business and Administrative Professionals,Administration Professionals,Training and Staff Development Professionals
+567,Service Training Centre In-Charge,2424.0501,,Professionals,Business and Administrative Professionals,Administration Professionals,Training and Staff Development Professionals
+568,Field Service Trainer,2424.0502,,Professionals,Business and Administrative Professionals,Administration Professionals,Training and Staff Development Professionals
+569,"Training and Staff Development Professionals, Other",2424.9900,,Professionals,Business and Administrative Professionals,Administration Professionals,Training and Staff Development Professionals
+570,"Manpower Officer/Area Manager, Human Resource",2424.0100,2412.10,Professionals,Business and Administrative Professionals,Administration Professionals,Training and Staff Development Professionals
+571,"Employment Officer/Operation Head, Employment",2424.0200,2412.20,Professionals,Business and Administrative Professionals,Administration Professionals,Training and Staff Development Professionals
+572,Human Resource Manager,2424.0300,2412.30,Professionals,Business and Administrative Professionals,Administration Professionals,Training and Staff Development Professionals
+573,Product Executive,2431.0601,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Advertising and Marketing Professionals
+574,Sales Executive (Media Org),2431.0651,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Advertising and Marketing Professionals
+575,Traffic Co-Ordinator,2431.0671,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Advertising and Marketing Professionals
+576,Creative Writer,2431.0700,2451.52,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Advertising and Marketing Professionals
+577,Propagandist,2431.0800,3411.30,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Advertising and Marketing Professionals
+578,Market Research Analyst,2431.0100,2419.40,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Advertising and Marketing Professionals
+579,"Advertising and Marketing Professionals, Other",2431.9900,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Advertising and Marketing Professionals
+580,Regional Service Marketing Manager,2431.0101,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Advertising and Marketing Professionals
+581,Regional Service Process Manager,2431.0102,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Advertising and Marketing Professionals
+582,Product Brand Manager (Automotive),2431.0201,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Advertising and Marketing Professionals
+583,Account Executive (Advertising Agency),2431.0202,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Advertising and Marketing Professionals
+584,Caption Writer,2431.0300,2451.47,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Advertising and Marketing Professionals
+585,Advertisement Writer,2431.0400,2451.50,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Advertising and Marketing Professionals
+586,Market Research Associate – Sales & Marketing/Business Development,2431.0501,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Advertising and Marketing Professionals
+587,Management Trainee – Sales & Marketing/Business Development,2431.0502,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Advertising and Marketing Professionals
+588,Market Research Associate – Product Marketing,2431.0503,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Advertising and Marketing Professionals
+589,Management Trainee – Product Marketing,2431.0504,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Advertising and Marketing Professionals
+590,Publicity Officer,2432.0100,2419.10,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Public Relations Professionals
+591,Public Relations Officer,2432.0200,2419.20,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Public Relations Professionals
+592,Digital Marketing/Social Media Manager,2432.0201,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Public Relations Professionals
+593,Information Officer,2432.0300,2419.30,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Public Relations Professionals
+594,"Public Relations Professionals, Other",2432.9900,2419.90,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Public Relations Professionals
+595,Business Development Executive,2433.0601,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Technical and Medical Sales Professional (Excluding ICT)
+596,"Field Officer, Insurance",2433.0700,3415.50,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Technical and Medical Sales Professional (Excluding ICT)
+597,Area Sales Officer,2433.0101,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Technical and Medical Sales Professional (Excluding ICT)
+598,Medical Representative,2433.0201,3415.20,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Technical and Medical Sales Professional (Excluding ICT)
+599,Sales Executive – Medical Electronics,2433.0301,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Technical and Medical Sales Professional (Excluding ICT)
+600,Sales Executive – Consumer Electronics,2433.0401,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Technical and Medical Sales Professional (Excluding ICT)
+601,Sales Executive – Solar Electronics,2433.0501,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Technical and Medical Sales Professional (Excluding ICT)
+602,Sales and Pre-Sales Analyst,2434.0101,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Information and Communications Technology Sales Professionals
+603,Sales/Pre-Sales Executive,2434.0201,,Professionals,Business and Administrative Professionals,"Sales, Marketing and Public Relations Professionals",Information and Communications Technology Sales Professionals
+604,System Analysts,2511.0100,2131.10,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",System Analysts
+605,Deployment Engineer,2511.0101,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",System Analysts
+606,Engineer – Software Transition,2511.0102,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",System Analysts
+607,Engineer – Packaging,2511.0103,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",System Analysts
+608,Engineer – Product Lifecycle Management (PLM),2511.0104,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",System Analysts
+609,Analyst,2511.0105,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",System Analysts
+610,Support Engineer,2511.0106,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",System Analysts
+611,"System Analysts, Other",2511.9900,2131.90,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",System Analysts
+612,Software Developer – Application Development,2512.0204,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software Developers
+613,Junior Software Developer,2512.0205,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software Developers
+614,Engineer Trainee – IT Services,2512.0206,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software Developers
+615,Engineer Trainee – Engineering Analysis,2512.0207,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software Developers
+616,Programmer Analyst,2512.0300,2132.30,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software Developers
+617,Software Developer – Product Development and Delivery,2512.0301,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software Developers
+618,FPGA Design Engineer,2512.0401,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software Developers
+619,Embedded Software Engineer,2512.0501,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software Developers
+620,Design Engineer – Engineering Analysis,2512.0601,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software Developers
+621,Application Maintenance Engineer,2512.0701,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software Developers
+622,"Programmer, Engineering and Scientific/System Programmer",2512.0800,2132.40,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software Developers
+623,Computer Programmer/Software Engineer,2512.0100,2132.10,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software Developers
+624,Software Engineer,2512.0201,2132.20,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software Developers
+625,Test Engineer – Software,2512.0202,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software Developers
+626,Design Engineer(Product Engineer),2512.0203,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software Developers
+627,Web Developer,2513.0101,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Web and Multimedia Developers
+628,User Interface Developer,2513.0201,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Web and Multimedia Developers
+629,Media Developer – Product Development and Delivery,2513.0301,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Web and Multimedia Developers
+630,Media Developer – Application Development,2513.0302,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Web and Multimedia Developers
+631,"Computer Programmers, Other",2514.9900,2132.90,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Applications Programmers
+632,System Programmer,2519.0100,2132.50,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software and Application Developers and Analysts Not Elsewhere Classified
+633,Quality Assurance Analyst (Computers),2519.0300,2139.10,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software and Application Developers and Analysts Not Elsewhere Classified
+634,Quality Assurance Engineer – IT Services,2519.0301,2139.10,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software and Application Developers and Analysts Not Elsewhere Classified
+635,Test Engineer – IT Services,2519.0302,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software and Application Developers and Analysts Not Elsewhere Classified
+636,Quality Assurance Engineer – Software Products,2519.0401,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software and Application Developers and Analysts Not Elsewhere Classified
+637,Test Engineer – Software Products,2519.0402,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software and Application Developers and Analysts Not Elsewhere Classified
+638,Quality Engineer,2519.0501,,Professionals,Information and Communication Technology Professionals,"Software and Application Developers, and Analysts",Software and Application Developers and Analysts Not Elsewhere Classified
+639,Database Design Analyst,2521.0100,2139.20,Professionals,Information and Communication Technology Professionals,Database and Network Professionals,Database designers and Administrators
+640,Junior Data Associate,2521.0202,,Professionals,Information and Communication Technology Professionals,Database and Network Professionals,Database designers and Administrators
+641,Database Administrator,2522.0100,2139.30,Professionals,Information and Communication Technology Professionals,Database and Network Professionals,Systems Administrators
+642,Security Analyst,2522.0201,,Professionals,Information and Communication Technology Professionals,Database and Network Professionals,Systems Administrators
+643,"Computer Network Professionals, Other",2523.9900,2139.90,Professionals,Information and Communication Technology Professionals,Database and Network Professionals,Computer Network Professionals
+644,Data Communication Analyst/Network Administrator,2523.0100,2131.20,Professionals,Information and Communication Technology Professionals,Database and Network Professionals,Computer Network Professionals
+645,Computer System Hardware Analyst/Hardware Engineer,2523.0200,2139.40,Professionals,Information and Communication Technology Professionals,Database and Network Professionals,Computer Network Professionals
+646,Tester/Test Engineer – Hardware,2523.0301,,Professionals,Information and Communication Technology Professionals,Database and Network Professionals,Computer Network Professionals
+647,Design Engineer,2523.0401,,Professionals,Information and Communication Technology Professionals,Database and Network Professionals,Computer Network Professionals
+648,Hardware Engineer,2523.0501,,Professionals,Information and Communication Technology Professionals,Database and Network Professionals,Computer Network Professionals
+649,Attorney General of India,2611.0100,2421.10,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Lawyers
+650,Solicitor General of India,2611.0200,2421.20,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Lawyers
+651,Advocate General,2611.0300,2421.30,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Lawyers
+652,Legal Remembrancer,2611.0400,2421.40,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Lawyers
+653,Government Advocate,2611.0500,2421.50,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Lawyers
+654,Public Prosecutor,2611.0600,2421.60,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Lawyers
+655,Police Prosecutor,2611.0700,2421.65,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Lawyers
+656,Attorney at Law,2611.0800,2421.70,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Lawyers
+657,Advocate,2611.0900,2421.80,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Lawyers
+658,Intellectual Property Executive,2611.1001,,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Lawyers
+659,Legal Associate,2611.1002,,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Lawyers
+660,"Lawyers, Other",2611.9900,2421.90,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Lawyers
+661,Munsif,2612.0400,2422.40,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Judges
+662,"Judge, Subordinate Court",2612.0500,2422.50,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Judges
+663,Magistrate,2612.0600,2422.60,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Judges
+664,"Magistrate, Juvenile Court",2612.0700,2422.65,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Judges
+665,"Chairman, Administrative Tribunal",2612.0800,2422.70,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Judges
+666,"Member, Administrative Tribunal",2612.0900,2422.72,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Judges
+667,"President, Industrial Tribunal",2612.1000,2422.75,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Judges
+668,"Member, Industrial Tribunal",2612.1100,2422.80,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Judges
+669,"President, Consumer Redressal Forum",2612.1200,2422.85,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Judges
+670,"Member, Consumer Redressal Forum",2612.1300,2422.87,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Judges
+671,"Judges and Magistrates, Other",2612.9900,2422.90,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Judges
+672,"Judge, Supreme Court",2612.0100,2422.10,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Judges
+673,"Judge, High Court",2612.0200,2422.20,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Judges
+674,District and Session Judge,2612.0300,2422.30,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,Judges
+675,Insolvency Registrar,2619.0600,2429.45,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,"Legal Professionals, Not Elsewhere Classified"
+676,Official Assignee (High Court),2619.0700,2429.50,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,"Legal Professionals, Not Elsewhere Classified"
+677,Court Receiver and Liquidator,2619.0800,2429.55,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,"Legal Professionals, Not Elsewhere Classified"
+678,Sheriff,2619.0900,2429.60,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,"Legal Professionals, Not Elsewhere Classified"
+679,Coroner,2619.1000,2429.65,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,"Legal Professionals, Not Elsewhere Classified"
+680,"Legal Professionals, Other",2619.9900,2429.90,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,"Legal Professionals, Not Elsewhere Classified"
+681,Prothonotary and Senior Master,2619.0100,2429.10,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,"Legal Professionals, Not Elsewhere Classified"
+682,"Registrar (Appellate Side, High Court)",2619.0200,2429.20,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,"Legal Professionals, Not Elsewhere Classified"
+683,Registrar,2619.0300,2429.25,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,"Legal Professionals, Not Elsewhere Classified"
+684,Master Official Referee and Registrar in Equity and Commissioner for Taking Accounts (High Court),2619.0400,2429.30,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,"Legal Professionals, Not Elsewhere Classified"
+685,Taxing Master,2619.0500,2429.40,Professionals,"Legal, Social and Cultural Professionals",Legal Professionals,"Legal Professionals, Not Elsewhere Classified"
+686,Archivist,2621.0100,2431.10,Professionals,"Legal, Social and Cultural Professionals","Librarians, Archivists and Curators",Archivists and Curators
+687,Curator (Museum),2621.0200,2431.20,Professionals,"Legal, Social and Cultural Professionals","Librarians, Archivists and Curators",Archivists and Curators
+688,"Restorer, Painting",2621.0300,2431.30,Professionals,"Legal, Social and Cultural Professionals","Librarians, Archivists and Curators",Archivists and Curators
+689,"Restorer, Lace and Textile",2621.0400,2431.40,Professionals,"Legal, Social and Cultural Professionals","Librarians, Archivists and Curators",Archivists and Curators
+690,"Restorer, Ceramics",2621.0500,2431.50,Professionals,"Legal, Social and Cultural Professionals","Librarians, Archivists and Curators",Archivists and Curators
+691,"Restorer, Paper and Prints",2621.0600,2431.55,Professionals,"Legal, Social and Cultural Professionals","Librarians, Archivists and Curators",Archivists and Curators
+692,"Restorer, Furniture",2621.0700,2431.60,Professionals,"Legal, Social and Cultural Professionals","Librarians, Archivists and Curators",Archivists and Curators
+693,"Archivists and Curators, Other",2621.9900,2431.90,Professionals,"Legal, Social and Cultural Professionals","Librarians, Archivists and Curators",Archivists and Curators
+694,Tape Librarian/Librarian Digital/Librarian Media,2622.0300,2432.25,Professionals,"Legal, Social and Cultural Professionals","Librarians, Archivists and Curators",Librarians and Related Information Professionals
+695,News Librarian,2622.0500,2432.40,Professionals,"Legal, Social and Cultural Professionals","Librarians, Archivists and Curators",Librarians and Related Information Professionals
+696,Document Coder/Processor,2622.0601,,Professionals,"Legal, Social and Cultural Professionals","Librarians, Archivists and Curators",Librarians and Related Information Professionals
+697,"Librarians and Related Information Professionals, Other",2622.9900,2432.90,Professionals,"Legal, Social and Cultural Professionals","Librarians, Archivists and Curators",Librarians and Related Information Professionals
+698,Librarian,2622.0100,2432.10,Professionals,"Legal, Social and Cultural Professionals","Librarians, Archivists and Curators",Librarians and Related Information Professionals
+699,Librarian (Film),2622.0200,2432.20,Professionals,"Legal, Social and Cultural Professionals","Librarians, Archivists and Curators",Librarians and Related Information Professionals
+700,Economist,2631.0100,2441.10,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Economists
+701,Energy Economist,2631.0200,2441.20,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Economists
+702,Home Economist,2631.0300,2441.30,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Economists
+703,"Economists, Other",2631.9900,2441.90,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Economists
+704,"Anthropologist, Cultural",2632.0900,2442.75,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Sociologists, Anthropologists and Related Professionals"
+705,Genealogist,2632.1000,2442.77,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Sociologists, Anthropologists and Related Professionals"
+706,Archaeologist,2632.1100,2442.80,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Sociologists, Anthropologists and Related Professionals"
+707,Geographer,2632.1200,2442.85,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Sociologists, Anthropologists and Related Professionals"
+708,"Sociologists, Anthropologists and Related Professionals, Other",2632.9900,2442.90,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Sociologists, Anthropologists and Related Professionals"
+709,"Sociologist, General",2632.0100,2442.10,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Sociologists, Anthropologists and Related Professionals"
+710,Social Ecologist,2632.0200,2442.20,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Sociologists, Anthropologists and Related Professionals"
+711,Clinical Sociologist,2632.0300,2442.25,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Sociologists, Anthropologists and Related Professionals"
+712,Demographer,2632.0400,2442.30,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Sociologists, Anthropologists and Related Professionals"
+713,Criminologists,2632.0500,2442.40,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Sociologists, Anthropologists and Related Professionals"
+714,Penologist,2632.0600,2442.50,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Sociologists, Anthropologists and Related Professionals"
+715,"Anthropologist, General",2632.0700,2442.60,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Sociologists, Anthropologists and Related Professionals"
+716,"Anthropologist, Physical",2632.0800,2442.70,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Sociologists, Anthropologists and Related Professionals"
+717,Historian,2633.0100,2443.10,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Philosophers, Historians and Political Scientists"
+718,Biographer,2633.0200,2443.20,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Philosophers, Historians and Political Scientists"
+719,Epigraphist,2633.0300,2443.30,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Philosophers, Historians and Political Scientists"
+720,Numismatist,2633.0400,2443.40,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Philosophers, Historians and Political Scientists"
+721,Philatelist,2633.0500,2443.50,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Philosophers, Historians and Political Scientists"
+722,Political Scientist,2633.0600,2443.60,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Philosophers, Historians and Political Scientists"
+723,"Philosophers, Historians and Political Scientists, Other",2633.9900,2443.90,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,"Philosophers, Historians and Political Scientists"
+724,"Psychologist, Social",2634.0500,2445.50,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Psychologists
+725,Clinical Psychologist,2634.0600,2445.60,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Psychologists
+726,Industrial – Organizational Psychologist,2634.0700,2445.70,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Psychologists
+727,"Psychologist, Counselling",2634.0800,2445.80,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Psychologists
+728,"Psychologists, Other",2634.9900,2445.90,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Psychologists
+729,Psychologist,2634.0100,2445.10,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Psychologists
+730,Psychometrist,2634.0200,2445.20,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Psychologists
+731,"Psychologist, Engineering",2634.0300,2445.30,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Psychologists
+732,"Psychologist, Educational",2634.0400,2445.40,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Psychologists
+733,"Social Work Professionals, Other",2635.9900,2446.90,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Social Work and Counselling Professionals
+734,Labour Welfare Officer,2635.0100,2446.10,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Social Work and Counselling Professionals
+735,Women’s Welfare Officer,2635.0200,2446.20,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Social Work and Counselling Professionals
+736,Probation Officer,2635.0300,2446.30,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Social Work and Counselling Professionals
+737,Medical Social Worker,2635.0400,2446.40,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Social Work and Counselling Professionals
+738,Child and Family Social Worker,2635.0500,2446.42,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Social Work and Counselling Professionals
+739,Health Educator,2635.0600,2446.45,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Social Work and Counselling Professionals
+740,Women’s Welfare Organizer,2635.0700,2446.50,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Social Work and Counselling Professionals
+741,Child Welfare Organizer,2635.0800,2446.55,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Social Work and Counselling Professionals
+742,Family Planning Organizer,2635.0900,2446.60,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Social Work and Counselling Professionals
+743,Vocational Rehabilitation Counsellor,2635.1000,2446.80,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Social Work and Counselling Professionals
+744,"Counsellor, Marriage and Family",2635.1100,2446.85,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Social Work and Counselling Professionals
+745,Priest,2636.0100,2461.10,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Religious Professionals
+746,Purohit,2636.0200,2462.10,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Religious Professionals
+747,Ordained Religious and Non-Ordained Religious Workers,2636.9900,2462.90,Professionals,"Legal, Social and Cultural Professionals",Social and Religious Professionals,Religious Professionals
+748,Technical Writer – Technical Documentation/ Writing,2641.0903,,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Authors and Related Writers
+749,Author,2641.0100,2451.10,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Authors and Related Writers
+750,Critic,2641.0200,2451.15,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Authors and Related Writers
+751,"Authors, Journalists and Other Writers",2641.9900,2451.90,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Authors and Related Writers
+752,Editor,2641.0300,2451.20,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Authors and Related Writers
+753,Script Editor,2641.0302,,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Authors and Related Writers
+754,Sub-Editor,2641.0400,2451.25,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Authors and Related Writers
+755,Poet,2641.0500,2451.65,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Authors and Related Writers
+756,Script Writer,2641.0601,2451.70,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Authors and Related Writers
+757,Script Researcher,2641.0602,,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Authors and Related Writers
+758,Associate – Editorial,2641.0701,,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Authors and Related Writers
+759,Associate – Learning,2641.0801,,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Authors and Related Writers
+760,Technical Writer – Product Documentation,2641.0901,,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Authors and Related Writers
+761,Technical Writer – Application Development,2641.0902,,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Authors and Related Writers
+762,News Reporter,2642.0100,2451.30,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Journalists
+763,Columnist,2642.0200,2451.35,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Journalists
+764,Freelance Journalist,2642.0300,2451.40,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Journalists
+765,Commentary Writer,2642.0400,2451.45,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Journalists
+766,Radio Commentator,2642.0500,2451.55,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Journalists
+767,Commentator (Motion Picture),2642.0600,2451.60,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists",Journalists
+768,Language Specialist,2643.0100,2444.10,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists","Translators, Interpreters and Other Linguists"
+769,Translator,2643.0200,2444.20,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists","Translators, Interpreters and Other Linguists"
+770,Interpreter,2643.0300,2444.30,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists","Translators, Interpreters and Other Linguists"
+771,Language Translator – Software Products,2643.0401,,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists","Translators, Interpreters and Other Linguists"
+772,Language Translator – IT Services,2643.0402,,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists","Translators, Interpreters and Other Linguists"
+773,"Philologists, Translators and Interpreters, Other",2643.9900,2444.90,Professionals,"Legal, Social and Cultural Professionals","Authors, Journalists and Linguists","Translators, Interpreters and Other Linguists"
+774,"Painter, Fine Art",2651.0400,2452.40,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Visual Artists
+775,"Renovator, Paintings",2651.0500,2452.50,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Visual Artists
+776,Cartoonist,2651.0600,2452.55,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Visual Artists
+777,"Visual Artists, Other",2651.9900,2452.90,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Visual Artists
+778,Sculptor,2651.0100,2452.10,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Visual Artists
+779,Modeller (Except Stone),2651.0200,2452.20,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Visual Artists
+780,Stone Modeller,2651.0300,2452.30,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Visual Artists
+781,Music Composer,2652.0100,2453.10,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Musicians, Singers and Composers"
+782,Orchestra Conductor,2652.0200,2453.20,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Musicians, Singers and Composers"
+783,Singer,2652.0300,2453.30,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Musicians, Singers and Composers"
+784,"Instrumental Musician, String Instrument",2652.0400,2453.40,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Musicians, Singers and Composers"
+785,"Instrumental Musician, Percussion Instrument",2652.0500,2453.50,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Musicians, Singers and Composers"
+786,"Instrumental Musician, Wind Instrument",2652.0500,2453.60,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Musicians, Singers and Composers"
+787,"Musicians, Singers and Composers, Other",2652.9900,2453.90,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Musicians, Singers and Composers"
+788,Choreographer,2653.0100,2454.10,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Dancers and Choreographers
+789,Nattuvan,2653.0200,2454.20,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Dancers and Choreographers
+790,Dancer,2653.0300,2454.30,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Dancers and Choreographers
+791,"Choreographers and Dancers, Other",2653.9900,2454.90,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Dancers and Choreographers
+792,"Director, Music",2455.20,2455.20,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Film, Stage and Related Directors and Producers"
+793,Dance Director,2654.0300,2455.30,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Film, Stage and Related Directors and Producers"
+794,Live Action Director,2654.0351,,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Film, Stage and Related Directors and Producers"
+795,"Director, Research (Motion Picture, Radio & TV)",2654.0400,2455.40,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Film, Stage and Related Directors and Producers"
+796,"Manager, Recreation and Entertainment",2654.0500,1229.10,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Film, Stage and Related Directors and Producers"
+797,"Producer, Stage",2654.0600,1229.30,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Film, Stage and Related Directors and Producers"
+798,"Producer, Film",2654.0700,1229.40,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Film, Stage and Related Directors and Producers"
+799,Production Manager (Motion Picture),2654.0800,1229.50,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Film, Stage and Related Directors and Producers"
+800,Lighting Artist,2654.0901,,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Film, Stage and Related Directors and Producers"
+801,"Stage and Film Directors, Other",2654.9900,2455.90,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Film, Stage and Related Directors and Producers"
+802,"Director, Theatrical",2654.0100,2455.10,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Film, Stage and Related Directors and Producers"
+803,Actor and Actress,2655.0100,2455.50,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Actors
+804,Extra,2655.0200,2455.60,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Actors
+805,Voice Over Artist,2655.0301,,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Actors
+806,Programme Announcer,2656.0100,3472.10,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Announcers on Radio, Television and Other Media"
+807,Disc Jockey,2656.0200,3472.20,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Announcers on Radio, Television and Other Media"
+808,"Radio, Television and Other Announcers, Other",2656.9900,3472.90,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,"Announcers on Radio, Television and Other Media"
+809,Rope Dancer,2659.0100,3474.10,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Creative and Performing Artists Not Elsewhere Classified
+810,Acrobat,2659.0200,3474.15,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Creative and Performing Artists Not Elsewhere Classified
+811,Equestrian,2659.0300,3474.20,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Creative and Performing Artists Not Elsewhere Classified
+812,Contortionist,2659.0400,3474.30,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Creative and Performing Artists Not Elsewhere Classified
+813,"Circus Performers, Other",2659.0500,3474.35,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Creative and Performing Artists Not Elsewhere Classified
+814,Ventriloquist,2659.0600,3474.40,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Creative and Performing Artists Not Elsewhere Classified
+815,Buffoon; Clown,2659.0700,3474.42,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Creative and Performing Artists Not Elsewhere Classified
+816,Mimic,2659.0800,3474.45,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Creative and Performing Artists Not Elsewhere Classified
+817,Magician,2659.0900,3474.50,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Creative and Performing Artists Not Elsewhere Classified
+818,Juggler,2659.1000,3474.55,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Creative and Performing Artists Not Elsewhere Classified
+819,Snake Charmer,2659.1100,3474.70,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Creative and Performing Artists Not Elsewhere Classified
+820,Puppeteer,2659.1200,3474.75,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Creative and Performing Artists Not Elsewhere Classified
+821,"Trainer, Animal",2659.1300,3474.60,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Creative and Performing Artists Not Elsewhere Classified
+822,Race Horse Trainer,2659.1400,3474.65,Professionals,"Legal, Social and Cultural Professionals",Creative and Performing Artists,Creative and Performing Artists Not Elsewhere Classified
+823,"Laboratory Assistant, Chemical",3111.0300,3111.30,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Chemical and Physical Science Technicians
+824,Chemical Radiation Technician,3111.0400,3111.35,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Chemical and Physical Science Technicians
+825,"Laboratory Assistant, Geological",3111.0500,3111.40,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Chemical and Physical Science Technicians
+826,"Slide Examiner, Petrology",3111.0600,3111.50,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Chemical and Physical Science Technicians
+827,"Slide Examiner, Palaeontology",3111.0700,3111.60,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Chemical and Physical Science Technicians
+828,"Physical Science Technicians, Other",3111.9900,3111.90,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Chemical and Physical Science Technicians
+829,"Laboratory Assistant, Physical",3111.0100,3111.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Chemical and Physical Science Technicians
+830,"Laboratory Assistant, Soil",3111.0200,3111.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Chemical and Physical Science Technicians
+831,"Overseer, Civil Engineering",3112.0100,3112.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Civil Engineering Technicians
+832,Permanent Way Inspector,3112.0200,3112.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Civil Engineering Technicians
+833,Plain Tabler,3112.0300,3112.30,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Civil Engineering Technicians
+834,Topographical Auxiliary,3112.0400,3112.40,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Civil Engineering Technicians
+835,Computer Topographical,3112.0500,3112.50,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Civil Engineering Technicians
+836,"Surveyor, Tidal",3112.0600,3112.60,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Civil Engineering Technicians
+837,Assistant Laboratory and Field Technician,3112.0701,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Civil Engineering Technicians
+838,"Civil Engineering Technicians, Other",3112.9900,3112.90,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Civil Engineering Technicians
+839,Technician Furnace Transformers: Ferro Alloys,3113.0111,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electrical Engineering Technicians
+840,Electrical Technician (High Voltage),3113.0200,3113.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electrical Engineering Technicians
+841,Energy Auditor,3113.0300,3113.30,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electrical Engineering Technicians
+842,Machine Maintenance Technician,3113.0401,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electrical Engineering Technicians
+843,Maintenance Executive,3113.0501,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electrical Engineering Technicians
+844,Maintenance Technician,3113.0601,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electrical Engineering Technicians
+845,Customer Inspection Technician,3113.0701,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electrical Engineering Technicians
+846,In-Process and Final Quality Engineer,3113.0801,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electrical Engineering Technicians
+847,Final Testing Technician,3113.0802,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electrical Engineering Technicians
+848,Automated Optical Inspection Machine Operator,3113.0803,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electrical Engineering Technicians
+849,Cluster In-Charge,3113.0901,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electrical Engineering Technicians
+850,LED Luminaries Testing and Measurement,3113.1001,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electrical Engineering Technicians
+851,LED Light Repair Technician,3113.1002,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electrical Engineering Technicians
+852,"Electrical Technicians, Other",3113.9900,3113.90,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electrical Engineering Technicians
+853,"Electrical Engineering, Technician/Maintenance Technician Electrical",3113.0101,3113.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electrical Engineering Technicians
+854,Maintenance Technician Electrical,3113.0102,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electrical Engineering Technicians
+855,BSS Support Engineer,3114.0601,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electronics Engineering Technicians
+856,Field Maintenance Engineer,3114.0701,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electronics Engineering Technicians
+857,ICT Engineer,3114.0801,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electronics Engineering Technicians
+858,ICT Technician,3114.0802,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electronics Engineering Technicians
+859,Broadband Technician,3114.0804,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electronics Engineering Technicians
+860,Installation Engineer – L2 & L3,3114.0901,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electronics Engineering Technicians
+861,Installation Engineer Installation Engineer – SDH & DWDM–,3114.0902,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electronics Engineering Technicians
+862,Product Specialist Engineer,3114.1101,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electronics Engineering Technicians
+863,Transmission Engineer,3114.1201,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electronics Engineering Technicians
+864,Network Management Engineer,3114.1301,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electronics Engineering Technicians
+865,"Electronics and Telecommunications Engineering Technicians, Other",3114.9900,3114.90,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electronics Engineering Technicians
+866,Electronics Technician,3114.0100,3114.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electronics Engineering Technicians
+867,Television Chassis Inspector/Television Technician,3114.0200,3152.60,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Electronics Engineering Technicians
+868,Automotive Engineering Technician/Testing Manager,3115.0201,3115.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+869,Test Engineer Product/Vehicle,3115.0202,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+870,"Executive, Proto Manufacturing",3115.0301,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+871,Method Study Executive,3115.0401,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+872,Manager Maintenance Mechanical & Electrical,3115.0501,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+873,Master Auto Service Technician/Auto Service Technician,3115.0601,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+874,Auto Service Technical Manager/Auto Service Technician,3115.0602,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+875,Aeronautical Engineering Technician,3115.1000,3115.30,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+876,"Heating, Ventilation and Refrigeration Engineering Technician",3115.1100,3115.40,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+877,Die Designer,3115.1200,3115.50,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+878,Tool Designer,3115.1301,3115.50,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+879,Mechanical Engineering Technician/Supervisor R&D Testing,3115.0101,3115.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+880,Tool Room Supervisor,3115.1302,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+881,Maintenance Technician – Mechanical,3115.0102,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+882,Loco Foreman,3115.1400,3115.60,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+883,Maintenance Technician Assistant – Mechanical,3115.0103,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+884,"Yard Foreman, Railway",3115.1500,3115.65,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+885,Body Shop In-Charge,3115.0104,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+886,Train Examiner,3115.1600,3115.70,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+887,Workshop Manager,3115.0105,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+888,"Mechanical Engineering Technicians, Other",3115.9900,3115.90,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mechanical Engineering Technicians
+889,"Laboratory Assistant, Glass and Ceramics",3116.0100,3116.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Chemical Engineering Technicians
+890,"Laboratory Assistant, Food & Beverages/ Chemist/ Analytical Supervisor/Lab Chemist",3116.0200,3116.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Chemical Engineering Technicians
+891,"Laboratory Assistant, Chemical Engineering General",3116.0300,3116.30,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Chemical Engineering Technicians
+892,"Core Analyst, Petrol and Natural Gas",3116.0400,3116.40,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Chemical Engineering Technicians
+893,"Laboratory Assistant, Petroleum and Lubricants",3116.0500,3116.50,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Chemical Engineering Technicians
+894,"Chemist, Water Purification/Water Treatment",3116.0600,3116.60,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Chemical Engineering Technicians
+895,"Chemical Engineering Technicians, Other/Chemical Process Technicians",3116.9900,3116.90,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Chemical Engineering Technicians
+896,Rock Slicer,3117.0100,3117.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mining and Metallurgical Technicians
+897,Petroleum and Natural Gas Extraction Technician,3117.0200,3117.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mining and Metallurgical Technicians
+898,"Laboratory Assistant, Metallurgical",3117.0300,3117.30,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mining and Metallurgical Technicians
+899,"Mining and Metallurgical Technicians, Other",3117.9900,3117.90,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Mining and Metallurgical Technicians
+900,Physical Design Engineer,3118.0302,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Draughtpersons
+901,"Draughtperson, Mechanical",3118.0401,3118.40,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Draughtpersons
+902,Draughtsman – Mechanical,3118.0402,3118.40,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Draughtpersons
+903,"Draughtperson, Structural",3118.0500,3118.50,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Draughtpersons
+904,"Draughtperson, Topographical",3118.0600,3118.60,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Draughtpersons
+905,Lithographic Designer,3118.0700,3118.70,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Draughtpersons
+906,Tracer,3118.0800,3118.80,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Draughtpersons
+907,Blue Printer,3118.0900,3118.85,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Draughtpersons
+908,"Draughtpersons, Other",3118.9900,3118.90,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Draughtpersons
+909,"Draughtperson, Architectural",3118.0100,3118.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Draughtpersons
+910,"Draughtperson, Civil",3118.0200,3118.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Draughtpersons
+911,Plumbing Draftsman,3118.0201,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Draughtpersons
+912,"Draughtperson, Electrical",3118.0300,3118.30,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Draughtpersons
+913,Draftsman,3118.0301,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Draughtpersons
+914,Fire Prevention Officer,3119.0800,3151.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Physical and Engineering Science Technicians Not Elsewhere Classified
+915,Fire Officer,3119.0900,3151.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Physical and Engineering Science Technicians Not Elsewhere Classified
+916,"Fire Inspectors, Other",3119.1000,3151.90,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Physical and Engineering Science Technicians Not Elsewhere Classified
+917,Laser Technician,3119.1100,3139.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Physical and Engineering Science Technicians Not Elsewhere Classified
+918,"Optical and Electronic Equipment Controllers, Other",3119.9900,3139.90,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Physical and Engineering Science Technicians Not Elsewhere Classified
+919,"Laboratory Assistant, Engineering",3119.0100,3119.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Physical and Engineering Science Technicians Not Elsewhere Classified
+920,Forensic Science Technician,3119.0200,3119.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Physical and Engineering Science Technicians Not Elsewhere Classified
+921,Fingerprint Expert,3119.0300,3119.30,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Physical and Engineering Science Technicians Not Elsewhere Classified
+922,Handwriting Expert,3119.0400,3119.35,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Physical and Engineering Science Technicians Not Elsewhere Classified
+923,Impression Taker,3119.0500,3119.37,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Physical and Engineering Science Technicians Not Elsewhere Classified
+924,Weather Observer,3119.0600,3119.40,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Physical and Engineering Science Technicians Not Elsewhere Classified
+925,"Methods, Time and Motion Study Technician",3119.0700,3119.50,Technicians and Associate Professionals,Science and Engineering Associate Professionals,Physical and Engineering Science Technicians,Physical and Engineering Science Technicians Not Elsewhere Classified
+926,"Supervisor and Foreman, Mining and Quarrying",3121.0100,8118.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Mining Supervisors
+927,"Supervisor and Foreman, Well Drilling",3121.0200,8118.15,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Mining Supervisors
+928,"Supervisor and Foreman, Mineral Treating",3121.0300,8118.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Mining Supervisors
+929,"Overman, Colliery",3121.0400,8118.25,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Mining Supervisors
+930,"Sirdar, Colliery",3121.0500,8118.30,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Mining Supervisors
+931,Mud Supervisor,3121.0600,8118.35,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Mining Supervisors
+932,Well Pulling Supervisor,3121.0700,8118.40,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Mining Supervisors
+933,Gas Supervisor,3121.0800,8118.50,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Mining Supervisors
+934,"Supervisors and Foremen in Mining and Mineral Processing Plant Operation Activities, Other",3121.9900,8118.90,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Mining Supervisors
+935,Stock House Foreman,3122.0300,8128.30,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+936,Plastic Moulding Shop Supervisor,3122.2200,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+937,"Supervisor and Foreman, Tobacco Preparation, Cigar and Cigarette Making",3122.3800,8279.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+938,"Supervisor and Foreman, Machinery Fitting and Repairing",3122.5200,7238.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+939,Bruting Supervisor,3122.6506,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+940,"Supervisor and Foreman, Metal Treating",3122.0400,8128.40,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+941,Plastic Moulding Shift In-Charge,3122.2300,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+942,"Supervisor and Foreman, Tobacco Product Making",3122.3900,8279.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+943,"Supervisor and Foreman, Motor Vehicle Repairing",3122.5300,7238.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+944,Blocking Supervisor,3122.6507,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+945,"Supervisor and Foreman, Metal Drawing and Extruding",3122.0500,8128.50,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+946,"Supervisor and Foreman, Wood Working (Machine)",3122.2400,8248.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+947,"Supervisor and Foreman, Material and Freight Handling",3122.4000,8290.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+948,"Supervisor and Foreman, Aircraft Repairing",3122.5400,7238.30,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+949,Polishing Supervisor,3122.6508,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+950,Assembly Line Supervisor,3122.0601,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+951,"Supervisor and Foreman, Carpentry, Cabinet Making and Related Wood Working Processes",3122.2500,8248.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+952,"Supervisor and Foreman, Checking, Sorting, Packing and Related Activities",3122.4100,8290.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+953,"Supervisor and Foreman, Electrical and Electronic Equipment",3122.5600,7248.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+954,Final Assortment Supervisor,3122.6509,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+955,"Supervisor and Foreman, Glass Forming and Related Activities",3122.0800,8138.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+956,"Supervisor and Foreman, Paper and Paper Board Product Making",3122.2600,8258.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+957,"Supervisor and Foreman, Welding and Flame Cutting",3122.4200,7218.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+958,"Engineering Supervisor, Telephone",3122.5700,7248.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+959,Supervisor Faceting and Polishing,3122.6511,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+960,"Supervisor and Foreman, Ceramics and Related Activities",3122.0900,8138.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+961,Jobber (Textile),3122.2800,8268.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+962,"Supervisor and Foreman, Sheet and Structural Metal Working",3122.4300,7218.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+963,"Sub-Inspector, Telephone",3122.5800,7248.30,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+964,"Supervisor and Foreman, Photolitho, Photo Engraving and Dark Room Operations",3122.6600,7348.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+965,"Supervisor and Foreman, Wood Preparation and Papermaking",3122.1000,8148.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+966,"Supervisor and Foreman, Hosiery",3122.2900,8268.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+967,Casting Line In-Charge,3122.4401,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+968,"Charge Hand, Rack Wiring (Telephone Equipment) Manufacturing",3122.5900,7248.40,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+969,"Supervisor and Foreman, Printing and Related Work",3122.6700,7348.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+970,"Supervisor and Foreman, Paper Pulp and Papermaking",3122.1100,8148.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+971,"Supervisor and Foreman, Tanning and Pelt Dressing",3122.3000,8268.30,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+972,Casting Line Supervisor,3122.4402,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+973,"Line Supervisor, Electrical",3122.6000,7248.50,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+974,"Supervisor and Foreman, Food Processing/Production Supervisor",3122.6900,7418.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+975,"Supervisor and Foreman, Chemical Processing and Related Activities",3122.1300,8158.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+976,"Supervisor and Foreman, Shoemaking",3122.3100,8268.40,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+977,Forging Shop Shift In-Charge,3122.4501,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+978,"Supervisor and Foreman, Precision Instrument Making (Except Electrical)",3122.6200,7318.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+979,Juice Clarification Supervisor,3122.7000,7418.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+980,"Supervisor and Foreman, Petroleum Refining and Related Activities/Operator/Engineering Assistant (Mechanical/Electrical/Civil/Chemical) Related Activities",3122.1400,8158.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+981,"Supervisor and Foreman, Harness and Saddle Making",3122.3200,8268.50,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+982,Forging Shop Supervisor,3122.4502,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+983,"Supervisor and Foreman, Musical Instrument Making",3122.6300,7318.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+984,"Supervisor and Foreman, Brewing, Aerated Water and Beverage Making",3122.7100,7418.30,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+985,Boiler Supervisor,3122.1600,8168.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+986,"Supervisor and Foreman, Leather Goods Making",3122.3300,8268.60,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+987,Press Shop Shift In-Charge,3122.4601,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+988,"Supervisor, Jewellery, Engraving and Precision Metal Workers",3122.6400,7318.30,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+989,"Supervisor and Foreman, Dairy Products/Dairy Technologist",3122.7200,7418.40,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+990,"Supervisors and Foremen, Stationary Engine and Related Equipment",3122.1700,8168.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+991,"Supervisors and Foremen, Textile-Related Products",3122.3400,7435.05,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+992,Press Shop Supervisor,3122.4602,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+993,Wax Model Making Supervisor,3122.6501,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+994,Rubber Nursery Supervisor,3122.8001,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+995,"Supervisor and Foreman, Stone Cutting and Carving",3122.1800,8218.10,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+996,"Scouring Supervisor, Wool",3122.3450,7431.26,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+997,Welding Machine Setter,3122.4701,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+998,Product Development Manager,3122.6502,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+999,"Manufacturing Supervisors, Other",3122.9900,,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors
+1000,"Supervisor and Foreman, Machine Tool Operations",3122.1900,8218.20,Technicians and Associate Professionals,Science and Engineering Associate Professionals,"Mining, Manufacturing and Construction Supervisors",Manufacturing Supervisors

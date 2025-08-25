@@ -172,6 +172,9 @@ Read the full guide: CONTRIBUTING.md
 **ManiKandan S**
 📩 [maniofficial.ac.in@gmail.com](maniofficial.ac.in@gmail.com) | [LinkedIn](https://www.linkedin.com/in/manikandan-s-166781301) | [GitHub](https://github.com/mani30mk)
 
+**Mohan Kumar S**
+📩 [127003157@sastra.ac.in](127003157@sastra.ac.in) | [LinkedIn](https://www.linkedin.com/in/mohan-kumar-s-095a00300/) | [GitHub](https://github.com/Mohan735780)
+
 **Balaji BP**
 📩 [127158006@sastra.ac.in](mailto:127158006@sastra.ac.in) | [LinkedIn](https://www.linkedin.com/in/balaji-b-p-243853300) | [GitHub]()
 
